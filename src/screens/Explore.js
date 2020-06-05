@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyleSheet, Text, View } from 'react-native'
 
-const Home = () => {
+const Explore = () => {
     return (
         <View>
             <Text>
@@ -11,6 +11,6 @@ const Home = () => {
     )
 }
 
-export default Home
+export default Explore
 
 const styles = StyleSheet.create({})
