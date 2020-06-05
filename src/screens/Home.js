@@ -1,13 +1,14 @@
 import React from "react";
-import { StyleSheet, Text, View, Image, TouchableOpacity } from "react-native";
+import { StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
+import Card from "../components/Card";
 
 const Home = () => {
   return (
     <View style={styles.container}>
       <View style={styles.navBar}>
         <Image
-          source={require("../../assets/img/youtube-logo.png")}
+          source={require("../img/youtube-logo.png")}
           style={{ width: 110, height: 24, marginLeft: 15 }}
         />
         <View style={styles.rightNav}>
@@ -23,7 +24,9 @@ const Home = () => {
         </View>
       </View>
 
-      <View style={styles.body}></View>
+      <ScrollView>
+        <Card />
+      </ScrollView>
     </View>
   );
 };
@@ -54,7 +57,7 @@ const styles = StyleSheet.create({
   },
 
   body: {
-      flex: 1,
+    flex: 1,
     //   backgroundColor: '#d3d3d32a'
   },
 });
