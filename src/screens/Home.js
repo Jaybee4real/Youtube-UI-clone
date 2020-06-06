@@ -1,29 +1,12 @@
 import React from "react";
 import { StyleSheet, Text, View, Image, TouchableOpacity, ScrollView } from "react-native";
-import Icon from "react-native-vector-icons/MaterialIcons";
 import Card from "../components/Card";
+import Navbar from "../components/Navbar";
 
 const Home = () => {
   return (
     <View style={styles.container}>
-      <View style={styles.navBar}>
-        <Image
-          source={require("../img/youtube-logo.png")}
-          style={{ width: 110, height: 24, marginLeft: 15 }}
-        />
-        <View style={styles.rightNav}>
-          <TouchableOpacity>
-            <Icon name="videocam" size={24} style={styles.navbarIcons} />
-          </TouchableOpacity>
-          <TouchableOpacity>
-            <Icon name="search" size={24} style={styles.navbarIcons} />
-          </TouchableOpacity>
-          <TouchableOpacity>
-            <Icon name="account-circle" size={24} style={styles.navbarIcons} />
-          </TouchableOpacity>
-        </View>
-      </View>
-
+      <Navbar />
       <ScrollView>
         <Card />
       </ScrollView>
@@ -36,24 +19,7 @@ export default Home;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: 23,
-  },
-  navBar: {
-    height: 55,
-    backgroundColor: "white",
-    elevation: 3,
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-  },
-  rightNav: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginRight: 15,
-  },
-  navbarIcons: {
-    marginRight: 15,
-    color: "#3c3c3cde",
+    marginTop: 25,
   },
 
   body: {

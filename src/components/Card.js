@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Text, View, StyleSheet, Dimensions, Image } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
+import { TouchableOpacity } from "react-native-gesture-handler";
 
 const { height, width } = Dimensions.get("window");
 
@@ -15,17 +16,21 @@ export class Card extends Component {
         <View style={styles.detailsContainer}>
           <Image style={styles.titleImage} />
           <View style={styles.infoContainer}>
-            <View>
-              <Text style={{ fontWeight: "bold", fontSize: 16 }}>
-                Eminem - Stan Live For BBC Radio 1
+              <Text numberOfLines={2} style={{ fontWeight: "bold", fontSize: 16 , marginRight: 5}}>
+               THE COMING SEASON 5(NEW HIT MOVIE ) DESTINY ETIKO[EVE ESIN] JERRY WILLIAMS 2020
               </Text>
               <Text style={{ color: "grey" }}>
                 BBC Radio 1 · 8.4M Views · 6 years ago
               </Text>
             </View>
-            <Icon name="more-vert" size={24} style={{marginLeft:''}}></Icon>
+            <TouchableOpacity>
+              <Icon
+                name="more-vert"
+                size={23}
+                style={{ color: "grey", marginBottom: 30 }}
+              ></Icon>
+            </TouchableOpacity>
           </View>
-        </View>
       </View>
     );
   }
@@ -47,6 +52,7 @@ const styles = StyleSheet.create({
     zIndex: 2,
     flexDirection: "row",
     alignItems: "center",
+    justifyContent: 'space-around'
   },
   titleImage: {
     width: 50,
@@ -56,9 +62,10 @@ const styles = StyleSheet.create({
     marginHorizontal: 10,
   },
   infoContainer: {
+    flex: 1,
     width: width,
-    marginBottom: 10,
-    flexDirection: "row",
+    justifyContent: 'center'
+
   },
 });
 export default Card;
