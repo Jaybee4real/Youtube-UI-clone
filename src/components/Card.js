@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, useEffect } from "react";
 import { Text, View, StyleSheet, Dimensions, Image } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import { TouchableOpacity } from "react-native-gesture-handler";
@@ -7,30 +7,96 @@ const { height, width } = Dimensions.get("window");
 
 export class Card extends Component {
   render() {
+
+    //////////Number Formatter Function///////
+
+    function nFormatter(num, digits) {
+      const si = [
+        { value: 1, symbol: "" },
+        { value: 1e3, symbol: "k" },
+        { value: 1e6, symbol: "M" },
+        { value: 1e9, symbol: "G" },
+        { value: 1e12, symbol: "T" },
+        { value: 1e15, symbol: "P" },
+        { value: 1e18, symbol: "E" },
+      ];
+      const rx = /\.0+$|(\.[0-9]*[1-9])0+$/;
+      let i;
+      for (i = si.length - 1; i > 0; i--) {
+        if (num >= si[i].value) {
+          break;
+        }
+      }
+      return (
+        (num / si[i].value).toFixed(digits).replace(rx, "$1") + si[i].symbol
+      );
+    }
+    function timeSince(date) {
+
+      var seconds = Math.floor((new Date() - date) / 1000);
+    
+      var interval = Math.floor(seconds / 31536000);
+    
+      if (interval > 1) {
+        return interval + " years";
+      }
+      interval = Math.floor(seconds / 2592000);
+      if (interval > 1) {
+        return interval + " months";
+      }
+      interval = Math.floor(seconds / 86400);
+      if (interval > 1) {
+        return interval + " days";
+      }
+      interval = Math.floor(seconds / 3600);
+      if (interval > 1) {
+        return interval + " hours";
+      }
+      interval = Math.floor(seconds / 60);
+      if (interval > 1) {
+        return interval + " minutes";
+      }
+      return Math.floor(seconds) + " seconds";
+    }
+  
+    
+
+
+    let video = this.props.video;
     return (
       <View style={styles.container}>
         <Image
-          source={require("../img/hqdefault.jpg")}
+          source={{ uri: video.snippet.thumbnails.medium.url }}
           style={styles.cardImage}
         />
         <View style={styles.detailsContainer}>
-          <Image style={styles.titleImage} />
+          <Image
+            source={{
+              uri: video.snippet.thumbnails.default.url
+            }}
+            style={styles.titleImage}
+          />
           <View style={styles.infoContainer}>
-              <Text numberOfLines={2} style={{ fontWeight: "bold", fontSize: 16 , marginRight: 5}}>
-               THE COMING SEASON 5(NEW HIT MOVIE ) DESTINY ETIKO[EVE ESIN] JERRY WILLIAMS 2020
-              </Text>
-              <Text style={{ color: "grey" }}>
-                BBC Radio 1 · 8.4M Views · 6 years ago
-              </Text>
-            </View>
-            <TouchableOpacity>
-              <Icon
-                name="more-vert"
-                size={23}
-                style={{ color: "grey", marginBottom: 30 }}
-              ></Icon>
-            </TouchableOpacity>
+            <Text
+              numberOfLines={2}
+              style={{ fontWeight: "bold", fontSize: 16, marginRight: 5 }}
+            >
+              {video.snippet.title}
+            </Text>
+            <Text style={{ color: "grey" }}>
+              {video.snippet.channelTitle} ·{" "}
+              {nFormatter(video.statistics.viewCount, 2)} Views · {" "}
+              {timeSince(new Date(video.snippet.publishedAt)) + ' Ago'}
+            </Text>
           </View>
+          <TouchableOpacity>
+            <Icon
+              name="more-vert"
+              size={23}
+              style={{ color: "grey", marginBottom: 30 }}
+            ></Icon>
+          </TouchableOpacity>
+        </View>
       </View>
     );
   }
@@ -52,20 +118,18 @@ const styles = StyleSheet.create({
     zIndex: 2,
     flexDirection: "row",
     alignItems: "center",
-    justifyContent: 'space-around'
+    justifyContent: "space-around",
   },
   titleImage: {
     width: 50,
     height: 50,
     borderRadius: 35,
-    backgroundColor: "grey",
     marginHorizontal: 10,
   },
   infoContainer: {
     flex: 1,
     width: width,
-    justifyContent: 'center'
-
+    justifyContent: "center",
   },
 });
 export default Card;
