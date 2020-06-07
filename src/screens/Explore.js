@@ -10,13 +10,13 @@ const { height, width } = Dimensions.get("window");
 
 const Explore = () => {
   return (
-    <View      style={{
-      ...styles.container,
-    }}>
+    <View
+      style={{
+        ...styles.container,
+      }}
+    >
       <Navbar />
-      <ScrollView
-   
-      >
+      <ScrollView>
         <View style={styles.miniOptionContainer}>
           <MiniOptions title="Trending" icon="hotjar" color="#fc4e14" />
           <MiniOptions title="Music" icon="music" color="#10f1df" />

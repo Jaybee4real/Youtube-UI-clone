@@ -1,0 +1,167 @@
+{
+    "kind": "youtube#SubscriptionListResponse",
+    "etag": "Q80gvVJPI8zCGnpXUx0tuQhTkC8",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+      "totalResults": 14,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#subscription",
+        "etag": "EyprkGxzBwVnHHB9gUdaZauepz8",
+        "id": "IvfoYqdC8l_UTuvmW8iFn-TIOl6KP9P5Uh8SLLRvkys",
+        "snippet": {
+          "publishedAt": "2019-03-07T03:16:25.299000Z",
+          "title": "BE AMAZED",
+          "description": "Amazingly interesting bite-sized Documentary styled videos. From Top 10 Most Amazing People to Future Technology Creations or  facts about Amazing Mysteries - if its Amazing, we'll make a video on it. Oh, and there's a splash of humor thrown in too. Satisfying your curiosity in 8-15 minutes, you'll Be Amazed at our mind-blowing array of facts and condensed lists.",
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCkQO3QsgTpNTsOw6ujimT5Q"
+          },
+          "channelId": "UCkGOXku_QUglcP81EtL-DWg",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-t2I6j-pcfPw/AAAAAAAAAAI/AAAAAAAAAAA/2N7ls2FHA1k/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-t2I6j-pcfPw/AAAAAAAAAAI/AAAAAAAAAAA/2N7ls2FHA1k/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-t2I6j-pcfPw/AAAAAAAAAAI/AAAAAAAAAAA/2N7ls2FHA1k/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            }
+          }
+        },
+        "contentDetails": {
+          "totalItemCount": 1130,
+          "newItemCount": 1,
+          "activityType": "all"
+        }
+      },
+      {
+        "kind": "youtube#subscription",
+        "etag": "XW8YPmkjx5ygXdHSdyjHWTACzs8",
+        "id": "IvfoYqdC8l8D5nKAYcbsIx80hr2njQCwIrFVlwdbMBk",
+        "snippet": {
+          "publishedAt": "2020-05-21T09:14:20.701000Z",
+          "title": "Open Source Community Africa",
+          "description": "Open Source Community Africa is a community aimed at creating and supporting the open source movement within Africa. As a community, we intend to help integrate the act of open source contribution to African developers whilst strongly advocating the movement of free and open source software.",
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCr12SA6qoKe-mWgsGd09sYQ"
+          },
+          "channelId": "UCkGOXku_QUglcP81EtL-DWg",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-fdFaybkbTL4/AAAAAAAAAAI/AAAAAAAAAAA/lkBTwQ79yyI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-fdFaybkbTL4/AAAAAAAAAAI/AAAAAAAAAAA/lkBTwQ79yyI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-fdFaybkbTL4/AAAAAAAAAAI/AAAAAAAAAAA/lkBTwQ79yyI/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            }
+          }
+        },
+        "contentDetails": {
+          "totalItemCount": 7,
+          "newItemCount": 0,
+          "activityType": "all"
+        }
+      },
+      {
+        "kind": "youtube#subscription",
+        "etag": "tbeUh31unL6hCRNW06Bj85s481w",
+        "id": "IvfoYqdC8l_UTuvmW8iFn5IheFzGiXZKAmQLB9Qdpg0",
+        "snippet": {
+          "publishedAt": "2019-07-25T02:27:27.758000Z",
+          "title": "Hitesh Choudhary",
+          "description": "Website: https://courses.LearnCodeOnline.in\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\n\nFor the Business purpose, Sponsorships and invitation, reach out at hitesh@lco.dev\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage",
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A"
+          },
+          "channelId": "UCkGOXku_QUglcP81EtL-DWg",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-4q0GjyjZjvo/AAAAAAAAAAI/AAAAAAAAAAA/fJcCMYx3TII/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-4q0GjyjZjvo/AAAAAAAAAAI/AAAAAAAAAAA/fJcCMYx3TII/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-4q0GjyjZjvo/AAAAAAAAAAI/AAAAAAAAAAA/fJcCMYx3TII/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            }
+          }
+        },
+        "contentDetails": {
+          "totalItemCount": 866,
+          "newItemCount": 0,
+          "activityType": "all"
+        }
+      },
+      {
+        "kind": "youtube#subscription",
+        "etag": "Tnk8JzNGyZmvyjtcjBCNUNqG1No",
+        "id": "IvfoYqdC8l9WMOfofeZzUrvjZjE9pqpL4bKxSCVSEd4",
+        "snippet": {
+          "publishedAt": "2020-04-25T09:10:37.071000Z",
+          "title": "Cyber Investing Summit",
+          "description": "Cyber Investing Summit\nFor more information, please go to www.cyberinvestingsummit.com.",
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UCCi2WTHuC8h2nIba2jyA2Jg"
+          },
+          "channelId": "UCkGOXku_QUglcP81EtL-DWg",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-WW3zmyA6LSY/AAAAAAAAAAI/AAAAAAAAAAA/lHRVFJiLiOI/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-WW3zmyA6LSY/AAAAAAAAAAI/AAAAAAAAAAA/lHRVFJiLiOI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-WW3zmyA6LSY/AAAAAAAAAAI/AAAAAAAAAAA/lHRVFJiLiOI/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            }
+          }
+        },
+        "contentDetails": {
+          "totalItemCount": 43,
+          "newItemCount": 0,
+          "activityType": "all"
+        }
+      },
+      {
+        "kind": "youtube#subscription",
+        "etag": "LRltD8Na8PVJokTdTsiXNaVhGCQ",
+        "id": "IvfoYqdC8l_UTuvmW8iFn5GMaoddI5_NrC_B1pSpSQo",
+        "snippet": {
+          "publishedAt": "2020-06-01T07:33:00.739000Z",
+          "title": "Kenneth Imo",
+          "description": "",
+          "resourceId": {
+            "kind": "youtube#channel",
+            "channelId": "UC25XEhtR2yZrjB_o2p9lkwQ"
+          },
+          "channelId": "UCkGOXku_QUglcP81EtL-DWg",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/-ll3jKRd1XGA/AAAAAAAAAAI/AAAAAAAAAAA/umnCrW1NYTY/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/-ll3jKRd1XGA/AAAAAAAAAAI/AAAAAAAAAAA/umnCrW1NYTY/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/-ll3jKRd1XGA/AAAAAAAAAAI/AAAAAAAAAAA/umnCrW1NYTY/s800-c-k-no-mo-rj-c0xffffff/photo.jpg"
+            }
+          }
+        },
+        "contentDetails": {
+          "totalItemCount": 89,
+          "newItemCount": 1,
+          "activityType": "all"
+        }
+      }
+    ]
+  }
+  
