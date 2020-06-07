@@ -11,19 +11,20 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Navbar />
-      <ScrollView horizontal={true}>
-        <SubscriptionsCard channel={channelList.items[0]} />
-        <SubscriptionsCard channel={channelList.items[1]} />
-        <SubscriptionsCard channel={channelList.items[2]} />
-        <SubscriptionsCard channel={channelList.items[3]} />
-        <SubscriptionsCard channel={channelList.items[4]} />
-      </ScrollView>
-          <ScrollView>
-              <Card video={channelVideos.items[0]} />
-              <Card video={channelVideos.items[1]} />
-              <Card video={channelVideos.items[2]} />
-              <Card video={channelVideos.items[3]} />
-              <Card video={channelVideos.items[4]} />
+      <ScrollView>
+        <ScrollView horizontal={true} >
+          <SubscriptionsCard channel={channelList.items[0]} />
+          <SubscriptionsCard channel={channelList.items[1]} />
+          <SubscriptionsCard channel={channelList.items[2]} />
+          <SubscriptionsCard channel={channelList.items[3]} />
+          <SubscriptionsCard channel={channelList.items[4]} />
+        </ScrollView>
+
+        <Card video={channelVideos.items[0]} />
+        <Card video={channelVideos.items[1]} />
+        <Card video={channelVideos.items[2]} />
+        <Card video={channelVideos.items[3]} />
+        <Card video={channelVideos.items[4]} />
       </ScrollView>
     </View>
   );

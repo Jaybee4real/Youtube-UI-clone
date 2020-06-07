@@ -1,12 +1,98 @@
-import React from 'react'
-import { View, Text, TextInput } from 'react-native'
+import React, { useState } from "react";
+import {
+  View,
+  Text,
+  TextInput,
+  TouchableOpacity,
+  StyleSheet,
+  FlatList,
+    ActivityIndicator,
+  Dimensions
+} from "react-native";
+import Icon from "react-native-vector-icons/MaterialIcons";
+import { useNavigation } from "@react-navigation/native";
+
+
+const {height, width} = Dimensions.get('window')
 
 const Search = () => {
-    return (
-        <View style={{flex: 1 , marginTop: 37}}>
-            <TextInput />
-        </View>
-    )
-}
+  const navigation = useNavigation();
+  const [searchQuery, SetSearchQuery] = useState();
+  const [isLoading, SetLoading] = useState(false);
 
-export default Search
+  const searchYoutube = (text) => {
+    SetLoading(true);
+    // fetch(
+    //   `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${text}&key=IzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`
+    // )
+    //   .then((data) => data.json())
+    //   .then((data) => {
+    //     SetSearchQuery(data);
+    //     SetLoading(false);
+    //   });
+
+    setTimeout(() => {
+      SetLoading(false);
+    }, 3000);
+  };
+
+  return (
+    <View style={style.container}>
+      <View style={style.searchContainer}>
+        <TouchableOpacity
+          style={{ marginLeft: 10, marginTop: 5 }}
+          onPress={() => navigation.goBack()}
+        >
+          <Icon
+            name="keyboard-backspace"
+            size={24}
+            style={{ marginRight: 10 }}
+          />
+        </TouchableOpacity>
+        <TextInput
+          style={style.input}
+          placeholder="Search My Youtube Clone"
+          onChangeText={searchYoutube}
+        />
+        <TouchableOpacity>
+          <Icon name="keyboard-voice" size={24} style={{ marginLeft: 5 }} />
+        </TouchableOpacity>
+      </View>
+      {/* <FlatList
+        data={{ id: "1", id: "2", id: "3", id: "4" }}
+        renderItem={({ item }) => <Text>{item.id}</Text>}
+      /> 
+      Cant Use Flatlist Because Its Crashing The Emulator
+
+      */}
+
+      {isLoading ? <ActivityIndicator style={{marginTop: height / 2 -20 }}/> : <Text style={{marginTop: height / 2 -20, textAlign: 'center' }}>Not Loading</Text>}
+    </View>
+  );
+};
+const style = StyleSheet.create({
+  container: {
+    flex: 1,
+    ...Platform.select({
+      ios: {
+        marginTop: 37,
+      },
+      android: {
+        marginTop: 24,
+      },
+    }),
+  },
+  input: {
+    backgroundColor: "lightgrey",
+    width: "80%",
+    borderRadius: 5,
+    paddingHorizontal: 10,
+  },
+  searchContainer: {
+    marginTop: 10,
+    width: "100%",
+    flexDirection: "row",
+  },
+});
+
+export default Search;

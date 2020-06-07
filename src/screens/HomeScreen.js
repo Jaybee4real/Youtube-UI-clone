@@ -12,6 +12,7 @@ import { createDrawerNavigator } from "@react-navigation/drawer";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Icon from "react-native-vector-icons/MaterialIcons";
+import About from "./About";
 
 const Tabs = createBottomTabNavigator()
 
@@ -62,6 +63,7 @@ export default class HomeScreen extends Component {
         <Drawer.Navigator initialRouteName="Home">
           <Drawer.Screen name="Home" children={createTabs} />
           <Drawer.Screen name="Settings" component={Settings} />
+          <Drawer.Screen name="About" component={About} />
         </Drawer.Navigator>
     );
   }
