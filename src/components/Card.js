@@ -83,7 +83,7 @@ export class Card extends Component {
             >
               {video.snippet.title}
             </Text>
-            <Text style={{ color: "grey" }}>
+            <Text numberOfLines={1} style={{ color: "grey" }}>
               {video.snippet.channelTitle} ·{" "}
               {nFormatter(video.statistics.viewCount, 2)} Views · {" "}
               {timeSince(new Date(video.snippet.publishedAt)) + ' Ago'}
