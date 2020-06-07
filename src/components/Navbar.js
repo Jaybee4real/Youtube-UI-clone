@@ -1,9 +1,10 @@
 import React, { Component } from "react";
 import { Text, View, StyleSheet, Image, TouchableOpacity } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
+import { useNavigation } from '@react-navigation/native';
 
-export class Navbar extends Component {
-  render() {
+const Navbar = () => {
+  const navigation = useNavigation();
     return (
       <View>
         <View style={styles.navBar}>
@@ -15,7 +16,7 @@ export class Navbar extends Component {
             <TouchableOpacity>
               <Icon name="videocam" size={24} style={styles.navbarIcons} />
             </TouchableOpacity>
-            <TouchableOpacity>
+            <TouchableOpacity onPress={() => navigation.navigate('Search')}>
               <Icon name="search" size={24} style={styles.navbarIcons} />
             </TouchableOpacity>
             <TouchableOpacity>
@@ -30,7 +31,7 @@ export class Navbar extends Component {
       </View>
     );
   }
-}
+
 
 
 const styles = StyleSheet.create({
