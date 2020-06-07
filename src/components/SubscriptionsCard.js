@@ -7,7 +7,7 @@ const SubscriptionsCard = (props) => {
     <View style={{ height: 70, marginVertical: 10, marginBottom: 30, marginHorizontal: 10}}>
       <Image
         source={{ uri: channel.snippet.thumbnails.medium.url }}
-        style={{ height: "100%", width: 70, borderRadius: "50%" }}
+        style={{ height: 70, width: 70, borderRadius: 35 }}
         resizeMode="contain"
       />
           <Text maxLength={10} numberOfLines={1} style={{ textAlign: "center", maxWidth: 70, height: 23, marginVertical: 7 }}>{channel.snippet.title}</Text>
