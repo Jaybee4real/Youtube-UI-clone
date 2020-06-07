@@ -5,9 +5,10 @@ import { TouchableOpacity } from "react-native-gesture-handler";
 
 const { height, width } = Dimensions.get("window");
 
+
+
 export class Card extends Component {
   render() {
-
     //////////Number Formatter Function///////
 
     function nFormatter(num, digits) {
@@ -32,11 +33,10 @@ export class Card extends Component {
       );
     }
     function timeSince(date) {
-
       var seconds = Math.floor((new Date() - date) / 1000);
-    
+
       var interval = Math.floor(seconds / 31536000);
-    
+
       if (interval > 1) {
         return interval + " years";
       }
@@ -58,46 +58,45 @@ export class Card extends Component {
       }
       return Math.floor(seconds) + " seconds";
     }
-  
-    
-
 
     let video = this.props.video;
     return (
-      <View style={styles.container}>
-        <Image
-          source={{ uri: video.snippet.thumbnails.medium.url }}
-          style={styles.cardImage}
-        />
-        <View style={styles.detailsContainer}>
+      <TouchableOpacity>
+        <View style={styles.container}>
           <Image
-            source={{
-              uri: video.snippet.thumbnails.default.url
-            }}
-            style={styles.titleImage}
+            source={{ uri: video.snippet.thumbnails.medium.url }}
+            style={styles.cardImage}
           />
-          <View style={styles.infoContainer}>
-            <Text
-              numberOfLines={2}
-              style={{ fontWeight: "bold", fontSize: 16, marginRight: 5 }}
-            >
-              {video.snippet.title}
-            </Text>
-            <Text numberOfLines={1} style={{ color: "grey" }}>
-              {video.snippet.channelTitle} ·{" "}
-              {nFormatter(video.statistics.viewCount, 2)} Views · {" "}
-              {timeSince(new Date(video.snippet.publishedAt)) + ' Ago'}
-            </Text>
+          <View style={styles.detailsContainer}>
+            <Image
+              source={{
+                uri: video.snippet.thumbnails.default.url,
+              }}
+              style={styles.titleImage}
+            />
+            <View style={styles.infoContainer}>
+              <Text
+                numberOfLines={2}
+                style={{ fontWeight: "bold", fontSize: 16, marginRight: 5 }}
+              >
+                {video.snippet.title}
+              </Text>
+              <Text numberOfLines={1} style={{ color: "grey" }}>
+                {video.snippet.channelTitle} ·{" "}
+                {nFormatter(video.statistics.viewCount, 2)} Views ·{" "}
+                {timeSince(new Date(video.snippet.publishedAt)) + " Ago"}
+              </Text>
+            </View>
+            <TouchableOpacity>
+              <Icon
+                name="more-vert"
+                size={23}
+                style={{ color: "grey", marginBottom: 30 }}
+              ></Icon>
+            </TouchableOpacity>
           </View>
-          <TouchableOpacity>
-            <Icon
-              name="more-vert"
-              size={23}
-              style={{ color: "grey", marginBottom: 30 }}
-            ></Icon>
-          </TouchableOpacity>
         </View>
-      </View>
+      </TouchableOpacity>
     );
   }
 }

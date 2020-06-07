@@ -7,11 +7,11 @@ import {
   TouchableOpacity,
   ScrollView,
   FlatList,
+  Platform,
 } from "react-native";
 import Card from "../components/Card";
 import Navbar from "../components/Navbar";
 import data from "./videodata.json";
-
 
 //
 
@@ -37,11 +37,6 @@ const Home = () => {
 
   useEffect(() => {
     setCardData(data.items);
-    var date = new Date("2015-04-07T03:00:03.000Z");
-    var myDate =
-      date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear();
-    console.log(myDate);
-    console.log(new Date().toISOString());
   });
 
   return (
@@ -79,11 +74,13 @@ export default Home;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: 25,
-  },
-
-  body: {
-    flex: 1,
-    //   backgroundColor: '#d3d3d32a'
+    ...Platform.select({
+      ios: {
+        marginTop: 37,
+      },
+      android: {
+        marginTop: 24,
+      },
+    }),
   },
 });
