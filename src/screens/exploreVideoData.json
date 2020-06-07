@@ -1,0 +1,1973 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "EFCWk2u_Pdqmd9Sysl1OF5Axjbg",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "N_PjAQ_DuDtrM8tqbFrgCLHfues",
+        "id": "59AYXzCa-Cs",
+        "snippet": {
+          "publishedAt": "2020-06-06T20:00:01Z",
+          "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+          "title": "I Built The World's Largest Lego Tower",
+          "description": "I didnt think they would actually build that high lol\nNew Merch - https://shopmrbeast.com/\r\n\r\nSUBSCRIBE OR I TAKE YOUR DOG\r\n\r\n\r\n----------------------------------------------------------------\r\nfollow all of these or i will kick you\r\n• Facebook - https://www.facebook.com/MrBeast6000/\r\n• Twitter - https://twitter.com/MrBeastYT\r\n•  Instagram - https://www.instagram.com/mrbeast\r\n--------------------------------------------------------------------",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/59AYXzCa-Cs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/59AYXzCa-Cs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/59AYXzCa-Cs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/59AYXzCa-Cs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/59AYXzCa-Cs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MrBeast",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "I Built The World's Largest Lego Tower",
+            "description": "I didnt think they would actually build that high lol\nNew Merch - https://shopmrbeast.com/\r\n\r\nSUBSCRIBE OR I TAKE YOUR DOG\r\n\r\n\r\n----------------------------------------------------------------\r\nfollow all of these or i will kick you\r\n• Facebook - https://www.facebook.com/MrBeast6000/\r\n• Twitter - https://twitter.com/MrBeastYT\r\n•  Instagram - https://www.instagram.com/mrbeast\r\n--------------------------------------------------------------------"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT13M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12833736",
+          "likeCount": "850159",
+          "dislikeCount": "14118",
+          "favoriteCount": "0",
+          "commentCount": "52650"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IAIR5yYRSk64wfhPF6KfIsQpmi8",
+        "id": "wfIwIzSsfc0",
+        "snippet": {
+          "publishedAt": "2020-06-07T01:16:57Z",
+          "channelId": "UCvyTdLw8SkVmUcHYXSDEGwA",
+          "title": "I Did THIS For 30 Days...Now I Can Dunk A Basketball At 5'10!",
+          "description": "SUB TO MY NEW NBA REACTION CHANNEL!\nhttps://www.youtube.com/channel/UCMUN2v9GN0WtBxkbu_o8o2Q\n\nGaming Channel: https://goo.gl/Se1qBH \n2HYPE Channel: https://www.youtube.com/channel/UCY4AlDv6wL2qhrX29iwdqAg\n\nPre-Workout I Use:\nhttps://t.co/q6oEqxDGLb?amp=1\nUse code CASH for 10% off your order ! \nFollow me on Twitter: www.twitter.com/cashnastygaming\nInstagram: @cashnasty\n\n\nI livestream on Twitch! www.twitch.tv/cashnastygaming",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wfIwIzSsfc0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wfIwIzSsfc0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wfIwIzSsfc0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wfIwIzSsfc0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wfIwIzSsfc0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CashNasty",
+          "tags": [
+            "i can dunk a basketball",
+            "how to dunk",
+            "vertical",
+            "vertical jump workout",
+            "increase your vertical",
+            "how to dunk a basketball",
+            "vertical jump",
+            "basketball training",
+            "training for 1v1 basketball",
+            "how to dunk if youre short",
+            "how to jump higher",
+            "how to increase vertical jump",
+            "vertical jump training",
+            "entertainment",
+            "funny videos clean",
+            "1v1 basketball",
+            "hooping videos",
+            "dunking videos",
+            "jump rope workout",
+            "fitness",
+            "how to build muscle",
+            "dunk contest"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "I Did THIS For 30 Days...Now I Can Dunk A Basketball At 5'10!",
+            "description": "SUB TO MY NEW NBA REACTION CHANNEL!\nhttps://www.youtube.com/channel/UCMUN2v9GN0WtBxkbu_o8o2Q\n\nGaming Channel: https://goo.gl/Se1qBH \n2HYPE Channel: https://www.youtube.com/channel/UCY4AlDv6wL2qhrX29iwdqAg\n\nPre-Workout I Use:\nhttps://t.co/q6oEqxDGLb?amp=1\nUse code CASH for 10% off your order ! \nFollow me on Twitter: www.twitter.com/cashnastygaming\nInstagram: @cashnasty\n\n\nI livestream on Twitch! www.twitch.tv/cashnastygaming"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT28M18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "555910",
+          "likeCount": "42417",
+          "dislikeCount": "328",
+          "favoriteCount": "0",
+          "commentCount": "3383"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "q-hfS0xIGDwHUsAGbxhZZzh195A",
+        "id": "S3lvVttuBlU",
+        "snippet": {
+          "publishedAt": "2020-06-07T04:02:42Z",
+          "channelId": "UCZD2qRU8J82XGdGdUWYneNQ",
+          "title": "SUGAR SHOW!!! What Really Happened at UFC 250 (Sean O'Malley vs Eddie Wineland)",
+          "description": "Sean O'Malley delivered one of the knockouts of the year in a technical showcase of striking skills. How did he do it?\n\nFeel free to help out the channel with more content: https://www.patreon.com/theweasle\n\nFollow me on Twitter:\nhttps://twitter.com/ThaWeasle",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S3lvVttuBlU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S3lvVttuBlU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S3lvVttuBlU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S3lvVttuBlU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S3lvVttuBlU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheWeasle",
+          "tags": [
+            "ufc",
+            "sean o malley",
+            "sean o'malley",
+            "sean o malley vs eddie wineland",
+            "sean o malley knockout",
+            "sean o'malley vs eddie wineland",
+            "sean o malley vs eddie wineland knockout",
+            "sean o malley vs eddie wineland highlights",
+            "sean o malley ko eddie wineland",
+            "sean o'malley vs eddie wineland knockout",
+            "sean o'malley vs eddie wineland highlights",
+            "sean o'malley vs eddie wineland full fight",
+            "sean o'malley vs eddie wineland ko",
+            "sean o malley vs eddie wineland full fight"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "SUGAR SHOW!!! What Really Happened at UFC 250 (Sean O'Malley vs Eddie Wineland)",
+            "description": "Sean O'Malley delivered one of the knockouts of the year in a technical showcase of striking skills. How did he do it?\n\nFeel free to help out the channel with more content: https://www.patreon.com/theweasle\n\nFollow me on Twitter:\nhttps://twitter.com/ThaWeasle"
+          },
+          "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+          "duration": "PT4M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "270530",
+          "likeCount": "2891",
+          "dislikeCount": "579",
+          "favoriteCount": "0",
+          "commentCount": "377"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Jk6zihqVq6QowURk6inWyuVHFHA",
+        "id": "IoU1KxBDPb4",
+        "snippet": {
+          "publishedAt": "2020-06-05T22:49:58Z",
+          "channelId": "UCt_DaLB_NDqPVxezyvcfRtg",
+          "title": "PLAYING FORTNITE WITH TIKTOKERS & YOUTUBERS",
+          "description": "ways you guys can help :) \nCampaign Zero - https://www.joincampaignzero.org/\n\nNAACP - https://www.naacp.org/\n\nBlack Lives Matter - https://blacklivesmatter.com/\n\nUnicorn Riot - https://unicornriot.ninja/\n\nColor Of Change - https://colorofchange.org/\n\nBlack Voters Matter Fund - blackvotersmatterfund.com\n\nCommunities United Against Police Brutality - https://www.cuapb.org/\n\nThe National Police Accountability Project - https://nlg-npap.org\n\nAdvancement Project - advancementproject.org\n\nNational Bail Out Fund - nationalbailout.org \n\nACLU - https://www.aclu.org/\n\nEqual Justice Initiative - https://eji.org/\n\nReclaim The Block - https://www.reclaimtheblock.org\n\nfollow me on Instagram if you want pls im begging u i need friends  😎 @larrayox\n\nget your girlies merch: xolarray.com \n\nSnapchat: Larrayxo\n\nTwitter: larrayxo \n\nInstagram: larrayox\n\nbusiness: larraybizz@gmail.com\n\nif u see this comment who u want me too play with next ;)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IoU1KxBDPb4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IoU1KxBDPb4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IoU1KxBDPb4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IoU1KxBDPb4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IoU1KxBDPb4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LARRAY",
+          "tags": [
+            "LARRAY",
+            "larrayox",
+            "charli damelio",
+            "emma chamberlain",
+            "avani",
+            "Maddie monroe",
+            "sam and Colby",
+            "fortnite",
+            "zoom",
+            "zoom with friends",
+            "larray plays fortnite",
+            "tiktok",
+            "NAACP",
+            "National Bail Out",
+            "george floyd",
+            "Breonna Taylor",
+            "Justice",
+            "black lives matter",
+            "BLM",
+            "Police accountability",
+            "Color of change",
+            "Campaign zero",
+            "fortnite live",
+            "fortnite memes",
+            "influencers",
+            "tiktokers",
+            "tik tok dances",
+            "youtubers",
+            "playing fortnite"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "PLAYING FORTNITE WITH TIKTOKERS & YOUTUBERS",
+            "description": "ways you guys can help :) \nCampaign Zero - https://www.joincampaignzero.org/\n\nNAACP - https://www.naacp.org/\n\nBlack Lives Matter - https://blacklivesmatter.com/\n\nUnicorn Riot - https://unicornriot.ninja/\n\nColor Of Change - https://colorofchange.org/\n\nBlack Voters Matter Fund - blackvotersmatterfund.com\n\nCommunities United Against Police Brutality - https://www.cuapb.org/\n\nThe National Police Accountability Project - https://nlg-npap.org\n\nAdvancement Project - advancementproject.org\n\nNational Bail Out Fund - nationalbailout.org \n\nACLU - https://www.aclu.org/\n\nEqual Justice Initiative - https://eji.org/\n\nReclaim The Block - https://www.reclaimtheblock.org\n\nfollow me on Instagram if you want pls im begging u i need friends  😎 @larrayox\n\nget your girlies merch: xolarray.com \n\nSnapchat: Larrayxo\n\nTwitter: larrayxo \n\nInstagram: larrayox\n\nbusiness: larraybizz@gmail.com\n\nif u see this comment who u want me too play with next ;)"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2018355",
+          "likeCount": "314465",
+          "dislikeCount": "2054",
+          "favoriteCount": "0",
+          "commentCount": "28459"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bgHkHg8DIh2SVnl-izVJPMEY4Zc",
+        "id": "gomHefZnjEQ",
+        "snippet": {
+          "publishedAt": "2020-06-06T21:00:08Z",
+          "channelId": "UCtnwLSE7VChF0P83vqb5X7g",
+          "title": "Coming Out. I Am Female.",
+          "description": "Happy Pride Month :)\nhttp://instagram.com/trevormoran\nhttp://twitter.com/trevimoran\ntrevimoranbooking@gmail.com for bookings/business",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gomHefZnjEQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gomHefZnjEQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gomHefZnjEQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gomHefZnjEQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gomHefZnjEQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trevi Moran",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Coming Out. I Am Female.",
+            "description": "Happy Pride Month :)\nhttp://instagram.com/trevormoran\nhttp://twitter.com/trevimoran\ntrevimoranbooking@gmail.com for bookings/business"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT5M47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "261535",
+          "likeCount": "30549",
+          "dislikeCount": "1139",
+          "favoriteCount": "0",
+          "commentCount": "3509"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uHvRwcDdzWn77tOJFnny9aR2XCI",
+        "id": "9g0D_HS-nDE",
+        "snippet": {
+          "publishedAt": "2020-06-06T15:04:49Z",
+          "channelId": "UCXg4rJUbDP1IP3TmZ9KDpJg",
+          "title": "I Made a GIANT Board Game in a Water Park!",
+          "description": "I Made a GIANT Board Game in a Water Park! with Brianna 👊\n\n👑 Get your hands on the BRAND NEW Royal Card Tee at https://bit.ly/36fJzHL !\n\n❤️ FRIENDS!\n🡆 @Preston \n\n👀 FOLLOW ME HERE!\n🡆 Instagram - https://instagram.com/briarsement\n🡆 Twitter - https://twitter.com/BriBabyArsement\n\n👕 Get your merch below!\n🡆 https://royallyb.com\n🡆 http://www.prestonsstylez.com/ \n\n🐲 Buy FLOOP Here! \n🡆 https://amzn.to/37uLpV6\n\nFaZe Rug - Letting SIRI Decide What I EAT For 24 HOURS!!\nhttps://youtu.be/GjjQvIVJcSg\n\nDOPE or NOPE - We Bought Each Other Lock-Down Care Packages!\nhttps://youtu.be/5lncmgA6TW0\n\n------------------------------\n\nAdditional music provided by Epidemic Sound\nClick here for a free trial! 🡆 http://share.epidemicsound.com/TBNR\n\n#Brianna",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9g0D_HS-nDE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9g0D_HS-nDE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9g0D_HS-nDE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9g0D_HS-nDE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9g0D_HS-nDE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brianna",
+          "tags": [
+            "funny",
+            "comedy",
+            "challenge",
+            "family",
+            "brianna",
+            "preston"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I Made a GIANT Board Game in a Water Park!",
+            "description": "I Made a GIANT Board Game in a Water Park! with Brianna 👊\n\n👑 Get your hands on the BRAND NEW Royal Card Tee at https://bit.ly/36fJzHL !\n\n❤️ FRIENDS!\n🡆 @Preston \n\n👀 FOLLOW ME HERE!\n🡆 Instagram - https://instagram.com/briarsement\n🡆 Twitter - https://twitter.com/BriBabyArsement\n\n👕 Get your merch below!\n🡆 https://royallyb.com\n🡆 http://www.prestonsstylez.com/ \n\n🐲 Buy FLOOP Here! \n🡆 https://amzn.to/37uLpV6\n\nFaZe Rug - Letting SIRI Decide What I EAT For 24 HOURS!!\nhttps://youtu.be/GjjQvIVJcSg\n\nDOPE or NOPE - We Bought Each Other Lock-Down Care Packages!\nhttps://youtu.be/5lncmgA6TW0\n\n------------------------------\n\nAdditional music provided by Epidemic Sound\nClick here for a free trial! 🡆 http://share.epidemicsound.com/TBNR\n\n#Brianna"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT22M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1129227",
+          "likeCount": "36531",
+          "dislikeCount": "2960",
+          "favoriteCount": "0",
+          "commentCount": "7109"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mEgeWIHyOk483APhXRvMt-1aK7I",
+        "id": "wx8e9b6BpqQ",
+        "snippet": {
+          "publishedAt": "2020-06-07T03:50:13Z",
+          "channelId": "UCYUbNjkuE4lsr2v1Id2O1oA",
+          "title": "Deputy killed, 2 officers injured after being ambushed in California, sheriff says",
+          "description": "A Santa Cruz County deputy was shot and killed on Saturday afternoon, Sheriff Jim Hart said in a press conference Saturday evening.\n\nThe sheriff's office received a report at 1:30 p.m. of a suspicious van with guns and bomb-making devices inside. The vehicle was parked near a turnout near Jamison Creek Road, right outside Ben Lomond. \n\n\nFull story here: https://abc7ne.ws/3h1X3vC\n\n\nKeep checking back for the latest breaking news in your area and beyond. If something happens that impacts where you live or improves life where you live, ABC7 will be there to share that story. And we don't just report what happens, we care about what happens -- because we live here, too.\n\nWhen you see news happen where you live, share it with us by tagging your social posts, video, and photos #ABC7Now, and you might be featured on our social media pages, website, app or TV.\n\nDOWNLOAD: The ABC7 News app is the best way to stay up to date on Bay Area breaking news, weather, events, traffic, politics, crime, life and more. You can customize your push notifications so you get just the alerts you want. Download it for free and check out the rest of our apps here: www.abc7news.com/apps\n\nMORE ABC7 NEWS:\n\n------------------------------------------------------------------------\n\nWebsite: www.abc7news.com\n\n-- Get all our special reports, weather, and traffic stories in one place. Facebook: www.facebook.com/abc7newsbayarea\n\n--Like our page for buzzy stories, breaking news, and more. Twitter: www.twitter.com/abc7newsbayarea\n\n-- Follow us for breaking news as it happens. Instagram: www.instagram.com/abc7newsbayarea -- Tag your photos and videos #ABC7Now and you might be featured on our social media pages, website, app or TV.\n\nDon’t forget to subscribe to our channel -- thanks for stopping by!\n\n#santacruz #california #news #investigation",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wx8e9b6BpqQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wx8e9b6BpqQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wx8e9b6BpqQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wx8e9b6BpqQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wx8e9b6BpqQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ABC7 News Bay Area",
+          "tags": [
+            "news",
+            "deputy shot",
+            "deputy killed",
+            "california",
+            "santa cruz",
+            "murder",
+            "murder investigation",
+            "ambush",
+            "california ambush",
+            "abc",
+            "press conference",
+            "news briefing",
+            "ben lomond",
+            "santa cruz shooting",
+            "shooting in california"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Deputy killed, 2 officers injured after being ambushed in California, sheriff says",
+            "description": "A Santa Cruz County deputy was shot and killed on Saturday afternoon, Sheriff Jim Hart said in a press conference Saturday evening.\n\nThe sheriff's office received a report at 1:30 p.m. of a suspicious van with guns and bomb-making devices inside. The vehicle was parked near a turnout near Jamison Creek Road, right outside Ben Lomond. \n\n\nFull story here: https://abc7ne.ws/3h1X3vC\n\n\nKeep checking back for the latest breaking news in your area and beyond. If something happens that impacts where you live or improves life where you live, ABC7 will be there to share that story. And we don't just report what happens, we care about what happens -- because we live here, too.\n\nWhen you see news happen where you live, share it with us by tagging your social posts, video, and photos #ABC7Now, and you might be featured on our social media pages, website, app or TV.\n\nDOWNLOAD: The ABC7 News app is the best way to stay up to date on Bay Area breaking news, weather, events, traffic, politics, crime, life and more. You can customize your push notifications so you get just the alerts you want. Download it for free and check out the rest of our apps here: www.abc7news.com/apps\n\nMORE ABC7 NEWS:\n\n------------------------------------------------------------------------\n\nWebsite: www.abc7news.com\n\n-- Get all our special reports, weather, and traffic stories in one place. Facebook: www.facebook.com/abc7newsbayarea\n\n--Like our page for buzzy stories, breaking news, and more. Twitter: www.twitter.com/abc7newsbayarea\n\n-- Follow us for breaking news as it happens. Instagram: www.instagram.com/abc7newsbayarea -- Tag your photos and videos #ABC7Now and you might be featured on our social media pages, website, app or TV.\n\nDon’t forget to subscribe to our channel -- thanks for stopping by!\n\n#santacruz #california #news #investigation"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT10M25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "594849",
+          "likeCount": "5732",
+          "dislikeCount": "831",
+          "favoriteCount": "0",
+          "commentCount": "11733"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I45560EoM6EmqIKn9-0AMJx-xII",
+        "id": "3W23B-DN1S4",
+        "snippet": {
+          "publishedAt": "2020-06-06T19:43:42Z",
+          "channelId": "UC8RBLJdSpxSVWDc_bGKmdQQ",
+          "title": "The Landlord (Original Animation)",
+          "description": "Mike and Zach receive a formal warning from their landlord. Mike decides to have a reasonable and peaceful conversation with him.\n\n- ◆ - Treat yourself to the NEW MERCH - ◆ -\nhttps://piemations.fanfiber.com/\n\n- ◆ - Keep Me Alive Through Patreon + Rewards! - ◆ -\r\nhttps://www.patreon.com/Piemations\r\n\r\n‣ Twitter ‣ https://twitter.com/PieMations \r\n‣ Twitch Channel ‣ http://www.twitch.tv/piemations\r\n‣ Second Channel ‣ https://www.youtube.com/channel/UCTlx4XK2E4RKXShi9nj9Cxw \r\n‣ DeviantArt ‣ https://piemationsart.deviantart.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3W23B-DN1S4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3W23B-DN1S4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3W23B-DN1S4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3W23B-DN1S4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3W23B-DN1S4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Piemations",
+          "tags": [
+            "piemations",
+            "piemation",
+            "pieanimation",
+            "pieanimations",
+            "pie mations",
+            "animation",
+            "comedy",
+            "funny",
+            "parody animation",
+            "animated parody",
+            "mike & zach",
+            "mike and zach",
+            "the landlord",
+            "mike and zach landlord",
+            "original short",
+            "original animation",
+            "episode",
+            "robin",
+            "mike",
+            "zach"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "The Landlord (Original Animation)",
+            "description": "Mike and Zach receive a formal warning from their landlord. Mike decides to have a reasonable and peaceful conversation with him.\n\n- ◆ - Treat yourself to the NEW MERCH - ◆ -\nhttps://piemations.fanfiber.com/\n\n- ◆ - Keep Me Alive Through Patreon + Rewards! - ◆ -\r\nhttps://www.patreon.com/Piemations\r\n\r\n‣ Twitter ‣ https://twitter.com/PieMations \r\n‣ Twitch Channel ‣ http://www.twitch.tv/piemations\r\n‣ Second Channel ‣ https://www.youtube.com/channel/UCTlx4XK2E4RKXShi9nj9Cxw \r\n‣ DeviantArt ‣ https://piemationsart.deviantart.com/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "520442",
+          "likeCount": "88736",
+          "dislikeCount": "404",
+          "favoriteCount": "0",
+          "commentCount": "4232"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I5kMISWeweoN26eJmBcBf5M-pq8",
+        "id": "DiZNegOugWM",
+        "snippet": {
+          "publishedAt": "2020-06-06T14:00:07Z",
+          "channelId": "UCj_ARBxhCoF5JxUItcEUs7Q",
+          "title": "Aaron Kaufman Builds 1200 HP FERRARI TWIN TURBO F12 for DDE: Episode 1",
+          "description": "WATCH DDE on Facebook https://bit.ly/DDEfacebook \nFOLLOW Aaron Kaufman https://bit.ly/TheArclight \nFOLLOW ArcLight Fab https://bit.ly/ArcLightFab \nFOLLOW DDE http://bit.ly/DDEinsta\nBEVERLY HILLS POLICE USE UNLAWFUL INTIMIDATION TACTICS ON LAMBORGHINI OWNER\n\nhttps://youtu.be/3dqeZq1wJ6k\n\nBEVERLY HILLS POLICE UNLAWFUL CITATION IMPOUNDS LAMBORGHINI OWNER https://youtu.be/KDMp6M-P7vc\n\nYOU WON\"T BELIEVE WHY THIS COP PULLS ME OVER! *Most Ridiculous Ticket In A Lamborghini* https://youtu.be/-Xx2ehfBQVM\n\nYou WON\"T BELIEVE WHY He Pulled Over! https://youtu.be/hF-JuU9kWcU\n\nLaguna Police Ticket Lamborghini Passenger WE'RE IN TROUBLE https://youtu.be/s_jE-1rvdmI\n\nLamborghini Pulled Over By Oregon State Police https://youtu.be/AcRpHatyqJA\n\nWE TOUR FAST & FURIOUS LOCATIONS WITH \"HECTOR\" *JOHNNY TRAN DESTROYS ECLIPSE*  https://youtu.be/1xlV048zqEg\n\nWE TOUR FAST & FURIOUS LOCATIONS WITH \"JESSE\" IN LA! *OVERNIGHT PARTS FROM JAPAN* https://youtu.be/KVaeet7vgGI\n\nWE TOUR FAST & FURIOUS LOCATIONS IN LA! \"TUNA, NO CRUST\" https://youtu.be/7NAi03QMR0g",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DiZNegOugWM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DiZNegOugWM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DiZNegOugWM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DiZNegOugWM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DiZNegOugWM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DailyDrivenExotics",
+          "tags": [
+            "Aaron Kaufman",
+            "Arclight Fab",
+            "Dean Kearney",
+            "Team Karnage",
+            "Formula Drift",
+            "Drift Viper",
+            "Drift Ferrari",
+            "Twin Turbo Ferrari F12",
+            "Twin Turbo V12",
+            "Daily Driven Exotics",
+            "Lamborghini",
+            "Exotic Rental Car",
+            "Rental Car",
+            "Lamborghini Huracan",
+            "Drifting",
+            "Burnouts",
+            "Supercar",
+            "Porsche",
+            "McLaren",
+            "Bugatti",
+            "Pagani",
+            "Koenigsegg",
+            "Ferrari",
+            "Audi R8",
+            "Mercedes Benz",
+            "Amg",
+            "Fast and Loud",
+            "Gas Monkey Garage"
+          ],
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Aaron Kaufman Builds 1200 HP FERRARI TWIN TURBO F12 for DDE: Episode 1",
+            "description": "WATCH DDE on Facebook https://bit.ly/DDEfacebook \nFOLLOW Aaron Kaufman https://bit.ly/TheArclight \nFOLLOW ArcLight Fab https://bit.ly/ArcLightFab \nFOLLOW DDE http://bit.ly/DDEinsta\nBEVERLY HILLS POLICE USE UNLAWFUL INTIMIDATION TACTICS ON LAMBORGHINI OWNER\n\nhttps://youtu.be/3dqeZq1wJ6k\n\nBEVERLY HILLS POLICE UNLAWFUL CITATION IMPOUNDS LAMBORGHINI OWNER https://youtu.be/KDMp6M-P7vc\n\nYOU WON\"T BELIEVE WHY THIS COP PULLS ME OVER! *Most Ridiculous Ticket In A Lamborghini* https://youtu.be/-Xx2ehfBQVM\n\nYou WON\"T BELIEVE WHY He Pulled Over! https://youtu.be/hF-JuU9kWcU\n\nLaguna Police Ticket Lamborghini Passenger WE'RE IN TROUBLE https://youtu.be/s_jE-1rvdmI\n\nLamborghini Pulled Over By Oregon State Police https://youtu.be/AcRpHatyqJA\n\nWE TOUR FAST & FURIOUS LOCATIONS WITH \"HECTOR\" *JOHNNY TRAN DESTROYS ECLIPSE*  https://youtu.be/1xlV048zqEg\n\nWE TOUR FAST & FURIOUS LOCATIONS WITH \"JESSE\" IN LA! *OVERNIGHT PARTS FROM JAPAN* https://youtu.be/KVaeet7vgGI\n\nWE TOUR FAST & FURIOUS LOCATIONS IN LA! \"TUNA, NO CRUST\" https://youtu.be/7NAi03QMR0g"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "541377",
+          "likeCount": "31067",
+          "dislikeCount": "740",
+          "favoriteCount": "0",
+          "commentCount": "2032"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PE-rpyYZ_amJt6MXyA4wlhu89YE",
+        "id": "QFeewU0HhNE",
+        "snippet": {
+          "publishedAt": "2020-06-05T17:16:52Z",
+          "channelId": "UCuFFtHWoLl5fauMMD5Ww2jA",
+          "title": "Video at Buffalo protest shows police pushing 75-year-old man",
+          "description": "Warning: This video contains graphic content. Two officers in Buffalo have been suspended without pay after video circulated online of riot police appearing to push a 75-year-old man during a protest against the death of George Floyd.\r\n»»» Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS\r\n\r\nConnect with CBC News Online:\r\n\r\nFor breaking news, video, audio and in-depth coverage: http://bit.ly/1Z0m6iX\r\nFind CBC News on Facebook: http://bit.ly/1WjG36m\r\nFollow CBC News on Twitter: http://bit.ly/1sA5P9H\r\nFor breaking news on Twitter: http://bit.ly/1WjDyks\r\nFollow CBC News on Instagram: http://bit.ly/1Z0iE7O\r\n\r\nDownload the CBC News app for iOS: http://apple.co/25mpsUz\r\nDownload the CBC News app for Android: http://bit.ly/1XxuozZ\r\n\r\n»»»»»»»»»»»»»»»»»»\r\nFor more than 75 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QFeewU0HhNE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QFeewU0HhNE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QFeewU0HhNE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QFeewU0HhNE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QFeewU0HhNE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CBC News",
+          "tags": [
+            "Buffalo protest",
+            "75-year-old man",
+            "riot police"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Video at Buffalo protest shows police pushing 75-year-old man",
+            "description": "Warning: This video contains graphic content. Two officers in Buffalo have been suspended without pay after video circulated online of riot police appearing to push a 75-year-old man during a protest against the death of George Floyd.\r\n»»» Subscribe to CBC News to watch more videos: http://bit.ly/1RreYWS\r\n\r\nConnect with CBC News Online:\r\n\r\nFor breaking news, video, audio and in-depth coverage: http://bit.ly/1Z0m6iX\r\nFind CBC News on Facebook: http://bit.ly/1WjG36m\r\nFollow CBC News on Twitter: http://bit.ly/1sA5P9H\r\nFor breaking news on Twitter: http://bit.ly/1WjDyks\r\nFollow CBC News on Instagram: http://bit.ly/1Z0iE7O\r\n\r\nDownload the CBC News app for iOS: http://apple.co/25mpsUz\r\nDownload the CBC News app for Android: http://bit.ly/1XxuozZ\r\n\r\n»»»»»»»»»»»»»»»»»»\r\nFor more than 75 years, CBC News has been the source Canadians turn to, to keep them informed about their communities, their country and their world. Through regional and national programming on multiple platforms, including CBC Television, CBC News Network, CBC Radio, CBCNews.ca, mobile and on-demand, CBC News and its internationally recognized team of award-winning journalists deliver the breaking stories, the issues, the analyses and the personalities that matter to Canadians."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1335942",
+          "likeCount": "13255",
+          "dislikeCount": "6316",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7HTou48TgJHD-Hg4B1MfCOenlp0",
+        "id": "9xxiBqIrrPc",
+        "snippet": {
+          "publishedAt": "2020-06-06T21:00:05Z",
+          "channelId": "UCau_n8AK1uk3Ys5bEnRAoqg",
+          "title": "100 LAYERS OF ROCKS (DANGER ALERT) UNBREAKABLE WALL",
+          "description": "100 LAYERS OF ICE: https://www.youtube.com/watch?v=KfUmwUx05cA&t=18s\n100 LAYERS OF CHOCOLATE: https://www.youtube.com/watch?v=tg9ccV9Xbwk&t=15s\n\nWatch More Awesome Content On YouTube Today:\nhttps://www.youtube.com/watch?v=59AYXzCa-Cs\n\nBecome a Join Member To Get Special Perks and Badges:\nhttps://www.youtube.com/channel/UCau_n8AK1uk3Ys5bEnRAoqg/join",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9xxiBqIrrPc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9xxiBqIrrPc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9xxiBqIrrPc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9xxiBqIrrPc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9xxiBqIrrPc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JustDustin",
+          "tags": [
+            "100 layers",
+            "unbreakable wall",
+            "justdustin",
+            "justdustin wall",
+            "100 layers of",
+            "100 layers challenge",
+            "100 layers wall"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "100 LAYERS OF ROCKS (DANGER ALERT) UNBREAKABLE WALL",
+            "description": "100 LAYERS OF ICE: https://www.youtube.com/watch?v=KfUmwUx05cA&t=18s\n100 LAYERS OF CHOCOLATE: https://www.youtube.com/watch?v=tg9ccV9Xbwk&t=15s\n\nWatch More Awesome Content On YouTube Today:\nhttps://www.youtube.com/watch?v=59AYXzCa-Cs\n\nBecome a Join Member To Get Special Perks and Badges:\nhttps://www.youtube.com/channel/UCau_n8AK1uk3Ys5bEnRAoqg/join"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18M24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "500937",
+          "likeCount": "43290",
+          "dislikeCount": "577",
+          "favoriteCount": "0",
+          "commentCount": "6463"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YlvQZtk0Ip68vn0lQRNat_Jp0V8",
+        "id": "q-bNNtl3oPI",
+        "snippet": {
+          "publishedAt": "2020-06-06T21:56:55Z",
+          "channelId": "UCWwWOFsW68TqXE-HZLC3WIA",
+          "title": "WE JUST FOUND THIS OUT...",
+          "description": "We just found this out...\n\nUNITE TO CREATE CHANGE!!!\n\n*Rest in peace George Floyd and every minority who wrongfully passed.\n\nHOW TO HELP: https://blacklivesmatters.carrd.co/?utm_source=Internet+Brunch&utm_campaign=7b028f6dfd-EMAIL_CAMPAIGN_2019_09_12_01_00_COPY_01&utm_medium=email&utm_term=0_fb5e40aa73-7b028f6dfd-490913365&mc_cid=7b028f6dfd&mc_eid=d1918d8724#donate\n\nText FLOYD to 55156 \n\nhttps://www.gofundme.com/f/georgefloyd",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q-bNNtl3oPI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q-bNNtl3oPI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q-bNNtl3oPI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q-bNNtl3oPI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q-bNNtl3oPI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The ACE Family",
+          "tags": [
+            "we just found this out",
+            "the ace family we just found this out",
+            "ace family we just found this out",
+            "just found this out",
+            "we just found out good news",
+            "good news",
+            "wasn't expecting this good news",
+            "the ace family",
+            "ace family",
+            "ace family good news",
+            "ace family pregnancy"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "WE JUST FOUND THIS OUT...",
+            "description": "We just found this out...\n\nUNITE TO CREATE CHANGE!!!\n\n*Rest in peace George Floyd and every minority who wrongfully passed.\n\nHOW TO HELP: https://blacklivesmatters.carrd.co/?utm_source=Internet+Brunch&utm_campaign=7b028f6dfd-EMAIL_CAMPAIGN_2019_09_12_01_00_COPY_01&utm_medium=email&utm_term=0_fb5e40aa73-7b028f6dfd-490913365&mc_cid=7b028f6dfd&mc_eid=d1918d8724#donate\n\nText FLOYD to 55156 \n\nhttps://www.gofundme.com/f/georgefloyd"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT18M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2354433",
+          "likeCount": "215728",
+          "dislikeCount": "2182",
+          "favoriteCount": "0",
+          "commentCount": "19009"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_p0YzvXoH1PMTpxs_idZ3NP_YRk",
+        "id": "JUnc3kl0DcA",
+        "snippet": {
+          "publishedAt": "2020-06-05T14:00:06Z",
+          "channelId": "UC9HlWVtENbiMQzVRmnbJxtw",
+          "title": "Meek Mill - Otherside of America [Official Audio]",
+          "description": "Meek Mill - Otherside of America\nListen/Download: https://MeekMill.lnk.to/OthersideOfAmerica\r\n\r\nSubscribe for more official content from Meek Mill:\r\nhttps://MeekMill.lnk.to/subscribe\r\n\r\nFollow Meek Mill\r\nhttp://meekMill.com\r\nhttp://twitter.com/MeekMill\r\nhttp://facebook.com/MeekMill\r\nhttp://instagram.com/MeekMill\r\nhttps://soundcloud.com/meek-mill-dc\r\n\r\nThe official YouTube channel of Atlantic Records artist Meek Mill. Subscribe for the latest music videos, performances, and more.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JUnc3kl0DcA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JUnc3kl0DcA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JUnc3kl0DcA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JUnc3kl0DcA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JUnc3kl0DcA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Meek Mill",
+          "tags": [
+            "meek mill",
+            "meek",
+            "mill",
+            "hip hop",
+            "rap",
+            "atlantic",
+            "atlantic records",
+            "wins & losses",
+            "dreams worth more than money",
+            "stay woke",
+            "dangerous",
+            "champions",
+            "championship",
+            "championship rings",
+            "rings",
+            "Intro",
+            "trauma",
+            "uptwon vibes",
+            "on me",
+            "cardi b",
+            "whats free",
+            "Respect the game",
+            "splash warning",
+            "going bad",
+            "drake",
+            "almost slipped",
+            "tic tac toe",
+            "24/7",
+            "pay you back",
+            "21 savage",
+            "100 summers",
+            "wit the shits",
+            "stuck in my ways",
+            "cold hearted ii"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Meek Mill - Otherside of America [Official Audio]",
+            "description": "Meek Mill - Otherside of America\nListen/Download: https://MeekMill.lnk.to/OthersideOfAmerica\r\n\r\nSubscribe for more official content from Meek Mill:\r\nhttps://MeekMill.lnk.to/subscribe\r\n\r\nFollow Meek Mill\r\nhttp://meekMill.com\r\nhttp://twitter.com/MeekMill\r\nhttp://facebook.com/MeekMill\r\nhttp://instagram.com/MeekMill\r\nhttps://soundcloud.com/meek-mill-dc\r\n\r\nThe official YouTube channel of Atlantic Records artist Meek Mill. Subscribe for the latest music videos, performances, and more."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT3M39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1549537",
+          "likeCount": "93723",
+          "dislikeCount": "5014",
+          "favoriteCount": "0",
+          "commentCount": "6970"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c4vExY7A3oPjWI3bc_A7Q42QqLM",
+        "id": "ND6wnkpZqq0",
+        "snippet": {
+          "publishedAt": "2020-06-07T00:05:51Z",
+          "channelId": "UCl16xaNY2arX3OzZBvTlsPQ",
+          "title": "POST MALONE Better at GUITAR Than ME!?",
+          "description": "Is Post Malone worthy of a GUITAR BATTLE with Stevie T!? Wait.... A RAPPER who can play guitar!!?? DUN DUN DUNNNN!\n\nSUBSCRIBE join the 3 MILL SUB CLUB! - https://www.youtube.com/user/SteveTerreberry?sub_confirmation=1\n\n\nBest of STEVIE T Playlist - https://www.youtube.com/playlist?list=PL1ZQmn_Lr4OBVj021UyfcBSBYkn3Ck2Ju\n\n\nFIND MORE STEVIE at the following:\n\nPatreon - http://www.patreon.com/SteveTerreberry\n\nStevie T MERCH - https://goo.gl/hYdA2K\n\nInstagram - https://www.instagram.com/steventerreberry/\n\nSpotify - https://goo.gl/jZ0STa\n\niTunes - https://goo.gl/Ky70iC\n\nFacebook - https://www.facebook.com/steveterreberry\n\n\nLike, if you think Post Malone knows that every song needs a techno breakdown!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ND6wnkpZqq0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ND6wnkpZqq0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ND6wnkpZqq0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ND6wnkpZqq0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ND6wnkpZqq0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SteveTerreberry",
+          "tags": [
+            "Post Malone",
+            "Stevie T",
+            "guitar",
+            "better",
+            "Steve Terreberry",
+            "guitarist",
+            "reacting to",
+            "Post",
+            "Malone",
+            "playing",
+            "shred battle",
+            "Post Malone guitar",
+            "guitar solo",
+            "shred war",
+            "reaction",
+            "guitar lesson",
+            "Austin",
+            "shred",
+            "rapper",
+            "playing guitar",
+            "cover",
+            "metal",
+            "sweep picking",
+            "challenge",
+            "good",
+            "crabcore",
+            "contest",
+            "guitar store",
+            "singing",
+            "live",
+            "Post Malone songs",
+            "Post Malone performing",
+            "performance",
+            "guitar battle",
+            "react to",
+            "music video",
+            "Better Now",
+            "acoustic guitar"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "POST MALONE Better at GUITAR Than ME!?",
+            "description": "Is Post Malone worthy of a GUITAR BATTLE with Stevie T!? Wait.... A RAPPER who can play guitar!!?? DUN DUN DUNNNN!\n\nSUBSCRIBE join the 3 MILL SUB CLUB! - https://www.youtube.com/user/SteveTerreberry?sub_confirmation=1\n\n\nBest of STEVIE T Playlist - https://www.youtube.com/playlist?list=PL1ZQmn_Lr4OBVj021UyfcBSBYkn3Ck2Ju\n\n\nFIND MORE STEVIE at the following:\n\nPatreon - http://www.patreon.com/SteveTerreberry\n\nStevie T MERCH - https://goo.gl/hYdA2K\n\nInstagram - https://www.instagram.com/steventerreberry/\n\nSpotify - https://goo.gl/jZ0STa\n\niTunes - https://goo.gl/Ky70iC\n\nFacebook - https://www.facebook.com/steveterreberry\n\n\nLike, if you think Post Malone knows that every song needs a techno breakdown!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "314061",
+          "likeCount": "37665",
+          "dislikeCount": "737",
+          "favoriteCount": "0",
+          "commentCount": "2787"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WpaUYCX1rdLRga5YpDW2j6QS4LY",
+        "id": "oH6wFWDN8Bw",
+        "snippet": {
+          "publishedAt": "2020-06-05T20:00:09Z",
+          "channelId": "UCYAB7hh1ohA8-iX54EpMdeA",
+          "title": "Customizing Nesting Dolls",
+          "description": "Hey guys! Today I am going to be painting on and customizing a set of Russian nesting dolls (or matryoshka dolls). I have been waiting (and some of you too) forever to paint these, so I was really excited to finally decorate these and add my own style to them. It's a different type of doll customization haha. This was a really fun art project to do, I highly recommend it if you are looking for creative activities to do. There is so much potential to do all kinds of different characters with these and create a completely original set. \n\nThese are really awesome collectibles and make for such cool home decor. I could definitely see myself building a collection of them. They're also really fun to take apart and put back together lol\n\nI hope you guys enjoy watching me customize these \"dolls.\" Let me know if you want to see me paint the jumbo doll next!\n\nHere are the nesting dolls I have (affiliate links):\n\nThe one I painted: https://amzn.to/2A4LzXy\nThe \"cone head\": https://amzn.to/3cv3Hag\nThe big boy: https://amzn.to/375JM0E\n*make sure to tag me on instagram if you paint your own!!!\n\n\n___________WELCOME TO MY CHANNEL__________\r\n\r\nHey! my name is Moriah (pronounced muh-rye-yuh 😂 ) and this is my channel....obviously. I'm 25 and like doing anything creative...and being snarky.....just a lil. I make a lot of decorating and painting videos here. I'm obsessed with editing and adding lil bits to my videos, so if that's not your thing....oof you may hate this haha. I paint on squishies, thrift store finds, and other random things I pick up. I also love to draw, but don't expect anything too skilled, I'm not the best at that haha. You will also find occasional crafting/testing crafting kits on my channel which are always a hot mess. And even some baking (REALLY bad at that, but it's fun to try LOL). \r\n\r\nCURRENT SERIES:\r\nSquishy Makeovers: Fixing and decorating used squishies sent from my viewers\r\nThrift Store Makeovers: Fixing and decorating stuff I find at thrift stores/yard sales\r\nBake With ME: Recreating squishies I've decorated in real life\r\nCreate This Book: Drawing in the prompt book that I wrote (available to purchase and follow along)\r\nSquishy Unboxing: Opening used squishy packages sent from viewers\r\nCraft Kit Testing: pretty self explanatory. testing craft kits.\r\n\r\n\r\n\r\n___UPLOAD SCHEDULE___\r\n\r\nEvery Friday at 4:00pm ET: Alternating Squishy Makeovers, Thrift Makeovers, Craft Kit Reviews, Create This Book, Mail Openings and Miscellaneous crafts and DIYs\r\n\r\n\r\n____PURCHASE ME PRODUCTS____\r\n\r\nCREATE THIS BOOK:\r\nhttps://amzn.to/2vUerfI\r\n\r\nCREATE THIS BOOK 2:\r\nhttps://amzn.to/2Nx2G9f\r\n\r\nME MERCH\r\nhttps://me-merch.myshopify.com\r\n\r\nMORE MERCH:\r\nhttps://moriah-elizabeth.teespring.com/\r\n\r\n\r\n____ME SOCIALS____\r\n\r\nINSTAGRAM: \r\nhttps://www.instagram.com/moriahelizabethofficial/\r\n\r\nVISIT ME WEBSITE:\r\nhttps://www.moriahelizabeth.com/\r\n\r\n\r\n____CONTACT ME____\r\n\r\nEMAIL PICTURES OF YOUR ART (Create This Book or Fan art only please):\r\nArtwork@Moriah.video\r\n\r\nFOR BUSINESS INQUIRIES/OPPORTUNITIES ONLY:\r\nBusiness@Moriah.video\r\n\r\n\r\n_____MAIL ME_____\r\n\r\nFor sending squishies, Letters, or general fan mail, please contact: FANMAIL@MORIAH.VIDEO to request my P.O. box address \r\n(mail accepted from those ages 13+ ONLY)\r\n\r\nATTENTION: Unfortunately I can only respond to a small amount of people each week. This is to make sure that I get a reasonable amount of mail and can feature the maximum amount on camera. I apologize in advance if you do not hear back from me, I may not have even seen the message. This email gets SUPER clogged with thousands of messages. Currently have 15,000+ unread messages just in this folder. SORRY PEEPS!*",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oH6wFWDN8Bw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oH6wFWDN8Bw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oH6wFWDN8Bw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oH6wFWDN8Bw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oH6wFWDN8Bw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Moriah Elizabeth",
+          "tags": [
+            "painting crafts for adults",
+            "how to paint russian nesting dolls",
+            "fun painting projects",
+            "customizing dolls"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Customizing Nesting Dolls",
+            "description": "Hey guys! Today I am going to be painting on and customizing a set of Russian nesting dolls (or matryoshka dolls). I have been waiting (and some of you too) forever to paint these, so I was really excited to finally decorate these and add my own style to them. It's a different type of doll customization haha. This was a really fun art project to do, I highly recommend it if you are looking for creative activities to do. There is so much potential to do all kinds of different characters with these and create a completely original set. \n\nThese are really awesome collectibles and make for such cool home decor. I could definitely see myself building a collection of them. They're also really fun to take apart and put back together lol\n\nI hope you guys enjoy watching me customize these \"dolls.\" Let me know if you want to see me paint the jumbo doll next!\n\nHere are the nesting dolls I have (affiliate links):\n\nThe one I painted: https://amzn.to/2A4LzXy\nThe \"cone head\": https://amzn.to/3cv3Hag\nThe big boy: https://amzn.to/375JM0E\n*make sure to tag me on instagram if you paint your own!!!\n\n\n___________WELCOME TO MY CHANNEL__________\r\n\r\nHey! my name is Moriah (pronounced muh-rye-yuh 😂 ) and this is my channel....obviously. I'm 25 and like doing anything creative...and being snarky.....just a lil. I make a lot of decorating and painting videos here. I'm obsessed with editing and adding lil bits to my videos, so if that's not your thing....oof you may hate this haha. I paint on squishies, thrift store finds, and other random things I pick up. I also love to draw, but don't expect anything too skilled, I'm not the best at that haha. You will also find occasional crafting/testing crafting kits on my channel which are always a hot mess. And even some baking (REALLY bad at that, but it's fun to try LOL). \r\n\r\nCURRENT SERIES:\r\nSquishy Makeovers: Fixing and decorating used squishies sent from my viewers\r\nThrift Store Makeovers: Fixing and decorating stuff I find at thrift stores/yard sales\r\nBake With ME: Recreating squishies I've decorated in real life\r\nCreate This Book: Drawing in the prompt book that I wrote (available to purchase and follow along)\r\nSquishy Unboxing: Opening used squishy packages sent from viewers\r\nCraft Kit Testing: pretty self explanatory. testing craft kits.\r\n\r\n\r\n\r\n___UPLOAD SCHEDULE___\r\n\r\nEvery Friday at 4:00pm ET: Alternating Squishy Makeovers, Thrift Makeovers, Craft Kit Reviews, Create This Book, Mail Openings and Miscellaneous crafts and DIYs\r\n\r\n\r\n____PURCHASE ME PRODUCTS____\r\n\r\nCREATE THIS BOOK:\r\nhttps://amzn.to/2vUerfI\r\n\r\nCREATE THIS BOOK 2:\r\nhttps://amzn.to/2Nx2G9f\r\n\r\nME MERCH\r\nhttps://me-merch.myshopify.com\r\n\r\nMORE MERCH:\r\nhttps://moriah-elizabeth.teespring.com/\r\n\r\n\r\n____ME SOCIALS____\r\n\r\nINSTAGRAM: \r\nhttps://www.instagram.com/moriahelizabethofficial/\r\n\r\nVISIT ME WEBSITE:\r\nhttps://www.moriahelizabeth.com/\r\n\r\n\r\n____CONTACT ME____\r\n\r\nEMAIL PICTURES OF YOUR ART (Create This Book or Fan art only please):\r\nArtwork@Moriah.video\r\n\r\nFOR BUSINESS INQUIRIES/OPPORTUNITIES ONLY:\r\nBusiness@Moriah.video\r\n\r\n\r\n_____MAIL ME_____\r\n\r\nFor sending squishies, Letters, or general fan mail, please contact: FANMAIL@MORIAH.VIDEO to request my P.O. box address \r\n(mail accepted from those ages 13+ ONLY)\r\n\r\nATTENTION: Unfortunately I can only respond to a small amount of people each week. This is to make sure that I get a reasonable amount of mail and can feature the maximum amount on camera. I apologize in advance if you do not hear back from me, I may not have even seen the message. This email gets SUPER clogged with thousands of messages. Currently have 15,000+ unread messages just in this folder. SORRY PEEPS!*"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2649962",
+          "likeCount": "240966",
+          "dislikeCount": "1796",
+          "favoriteCount": "0",
+          "commentCount": "47701"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YGNzODrvbK3K4gdrI1R36UpYaHo",
+        "id": "4ehDRCE1Z38",
+        "snippet": {
+          "publishedAt": "2020-06-05T18:48:39Z",
+          "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+          "title": "I’ve Disappointed and Embarrassed Myself.",
+          "description": "Epic Games CEO Tim Sweeney recently stated that the upcoming Playstation 5 would feature a storage architecture \"far ahead of anything you can buy on anything on PC for any amount of money right now\". Linus initially attacked Sweeney's statement, citing existing SSDs with faster read/write speeds. In this video, Linus explains how he misunderstood Sweeney's statement, apologizes for spreading misinformation, and discusses some of the cool tech that makes the PS5 truly exciting for gamers of all stripes.\n\nBuy Playstation stuff:\nOn Amazon (PAID LINK): https://geni.us/fAcMLB\nOn Newegg (PAID LINK): https://geni.us/rloH0\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\nDiscuss on the forum: https://linustechtips.com/main/topic/1205112-i%E2%80%99ve-disappointed-and-embarrassed-myself/\n\nGET MERCH: http://www.LTTStore.com/\nSUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \nLTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\nAffiliates, Sponsors & Referrals: https://lmg.gg/sponsors\nGet Private Internet Access VPN at https://lmg.gg/pialinus2\nGet a Mech Keyboard: https://geni.us/RecNBTI\nNEEDforSEAT Gaming Chairs: https://geni.us/needforseat\nGet a Displate Metal Print at https://lmg.gg/displateltt\nUse code LINUSMEDIAGROUP on Epic Games Store: https://lmg.gg/kRTpY\nGet a 30-day free trial of Amazon Prime at https://lmg.gg/8KV1v\nOur Gear on Amazon: https://geni.us/lmgamazon\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTwitch: https://www.twitch.tv/linustech\n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nTechquickie: https://lmg.gg/techquickieyt\nTechLinked: https://lmg.gg/techlinkedyt\nShortCircuit: https://lmg.gg/shortcircuityt\n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt\n\nMUSIC CREDIT\n---------------------------------------------------  \nTitle: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro Screen Music Credit: Approaching Nirvana - Sugar High http://www.youtube.com/approachingnirvana\n\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0 https://lmg.gg/fxHYK \nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://lmg.gg/Q9yyQ \nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://lmg.gg/8upii",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4ehDRCE1Z38/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4ehDRCE1Z38/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4ehDRCE1Z38/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4ehDRCE1Z38/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4ehDRCE1Z38/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Linus Tech Tips",
+          "tags": [
+            "playstation",
+            "play",
+            "station",
+            "ps5",
+            "egs",
+            "epic",
+            "games",
+            "store",
+            "tim",
+            "sweeney",
+            "controversy",
+            "ssd",
+            "solid",
+            "state",
+            "drive",
+            "kraken"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I’ve Disappointed and Embarrassed Myself.",
+            "description": "Epic Games CEO Tim Sweeney recently stated that the upcoming Playstation 5 would feature a storage architecture \"far ahead of anything you can buy on anything on PC for any amount of money right now\". Linus initially attacked Sweeney's statement, citing existing SSDs with faster read/write speeds. In this video, Linus explains how he misunderstood Sweeney's statement, apologizes for spreading misinformation, and discusses some of the cool tech that makes the PS5 truly exciting for gamers of all stripes.\n\nBuy Playstation stuff:\nOn Amazon (PAID LINK): https://geni.us/fAcMLB\nOn Newegg (PAID LINK): https://geni.us/rloH0\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\nDiscuss on the forum: https://linustechtips.com/main/topic/1205112-i%E2%80%99ve-disappointed-and-embarrassed-myself/\n\nGET MERCH: http://www.LTTStore.com/\nSUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \nLTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\nAffiliates, Sponsors & Referrals: https://lmg.gg/sponsors\nGet Private Internet Access VPN at https://lmg.gg/pialinus2\nGet a Mech Keyboard: https://geni.us/RecNBTI\nNEEDforSEAT Gaming Chairs: https://geni.us/needforseat\nGet a Displate Metal Print at https://lmg.gg/displateltt\nUse code LINUSMEDIAGROUP on Epic Games Store: https://lmg.gg/kRTpY\nGet a 30-day free trial of Amazon Prime at https://lmg.gg/8KV1v\nOur Gear on Amazon: https://geni.us/lmgamazon\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTwitch: https://www.twitch.tv/linustech\n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nTechquickie: https://lmg.gg/techquickieyt\nTechLinked: https://lmg.gg/techlinkedyt\nShortCircuit: https://lmg.gg/shortcircuityt\n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt\n\nMUSIC CREDIT\n---------------------------------------------------  \nTitle: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro Screen Music Credit: Approaching Nirvana - Sugar High http://www.youtube.com/approachingnirvana\n\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0 https://lmg.gg/fxHYK \nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://lmg.gg/Q9yyQ \nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://lmg.gg/8upii"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2666070",
+          "likeCount": "185407",
+          "dislikeCount": "6818",
+          "favoriteCount": "0",
+          "commentCount": "17366"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2E3-NX5lcz2tGYrMhGRUgKcvFL4",
+        "id": "cv5vFT9FmkM",
+        "snippet": {
+          "publishedAt": "2020-06-06T02:57:23Z",
+          "channelId": "UCy6kyFxaMqGtpE3pQTflK8A",
+          "title": "New Rule: The Blue Wall of Silence | Real Time with Bill Maher (HBO)",
+          "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nBill applauds the police officers who have finally begun to acknowledge that the problems in their ranks extend beyond just a \"few bad apples.\" \n\nConnect with Real Time Online:\nFind Real Time on Facebook: https://www.facebook.com/Maher\nFind Real Time on Twitter: https://twitter.com/RealTimers\nFind Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.\nFind Real Time with Bill Maher on HBO GO® http://itsh.bo/iioY87.\nFind Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher\nFind Real Time on Instagram: http://instagram.com/realtimers\nThe Real Time blog: http://www.real-time-with-bill-maher-blog.com/\n\nIt's HBO.\n\nConnect with HBO Online\nFind HBO on Facebook: http://Facebook.com/HBO\nFollow @HBO on Twitter: http://Twitter.com/HBO\nFind HBO on Youtube: http://Youtube.com/HBO\nFind HBO Official Site: http://HBO.com\nFind HBO Connect: http://Connect.hbo.com\nFind HBO GO: http://HBOGO.com\nFind HBO on Instagram: http://Instagram.com/hbo\nFind HBO on Foursquare: http://Foursquare.com/hbo\n\nCheck out other HBO Channels\nHBO: http://www.youtube.com/hbo\nGame of Thrones: http://www.youtube.com/GameofThrones \nTrue Blood: http://www.youtube.com/trueblood \nHBO Sports: http://www.youtube.com/HBOsports \nHBO Documentary Films: http://www.youtube.com/HBODocs \nCinemax: http://www.youtube.com/Cinemax \nHBO Latino: http://www.youtube.com/HBOLatino",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cv5vFT9FmkM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cv5vFT9FmkM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cv5vFT9FmkM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cv5vFT9FmkM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cv5vFT9FmkM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Real Time with Bill Maher",
+          "tags": [
+            "Michael Render",
+            "Killer Mike",
+            "Run the Jewels",
+            "Run the Jewels 4",
+            "Atlanta",
+            "mayor",
+            "Frank Figliuzzi",
+            "FBI",
+            "Director",
+            "Counterintelligence",
+            "NBC News",
+            "National Security",
+            "Michael Steele",
+            "Chair",
+            "Republican National Committee",
+            "The Michael Steele Podcast",
+            "MSNBC",
+            "Rosa Brooks",
+            "Georgetown University Law Center",
+            "international law",
+            "national security",
+            "constitutional law",
+            "criminal justice",
+            "How Everything Became War and the Military Became Everything",
+            "Trump",
+            "Insurrection Act",
+            "military"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "New Rule: The Blue Wall of Silence | Real Time with Bill Maher (HBO)",
+            "description": "Subscribe to the Real Time YouTube: http://itsh.bo/10r5A1B\n\nBill applauds the police officers who have finally begun to acknowledge that the problems in their ranks extend beyond just a \"few bad apples.\" \n\nConnect with Real Time Online:\nFind Real Time on Facebook: https://www.facebook.com/Maher\nFind Real Time on Twitter: https://twitter.com/RealTimers\nFind Real Time with Bill Maher Official Site: http://itsh.bo/HttKcM.\nFind Real Time with Bill Maher on HBO GO® http://itsh.bo/iioY87.\nFind Real Time with Bill Maher on Connect: http://connect.hbo.com/real-time-bill-maher\nFind Real Time on Instagram: http://instagram.com/realtimers\nThe Real Time blog: http://www.real-time-with-bill-maher-blog.com/\n\nIt's HBO.\n\nConnect with HBO Online\nFind HBO on Facebook: http://Facebook.com/HBO\nFollow @HBO on Twitter: http://Twitter.com/HBO\nFind HBO on Youtube: http://Youtube.com/HBO\nFind HBO Official Site: http://HBO.com\nFind HBO Connect: http://Connect.hbo.com\nFind HBO GO: http://HBOGO.com\nFind HBO on Instagram: http://Instagram.com/hbo\nFind HBO on Foursquare: http://Foursquare.com/hbo\n\nCheck out other HBO Channels\nHBO: http://www.youtube.com/hbo\nGame of Thrones: http://www.youtube.com/GameofThrones \nTrue Blood: http://www.youtube.com/trueblood \nHBO Sports: http://www.youtube.com/HBOsports \nHBO Documentary Films: http://www.youtube.com/HBODocs \nCinemax: http://www.youtube.com/Cinemax \nHBO Latino: http://www.youtube.com/HBOLatino"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT6M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1292153",
+          "likeCount": "30212",
+          "dislikeCount": "3177",
+          "favoriteCount": "0",
+          "commentCount": "6318"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sOoLNvrJM_J607G8n1sEQ_APCqI",
+        "id": "MBLji5dMS_k",
+        "snippet": {
+          "publishedAt": "2020-06-06T02:15:16Z",
+          "channelId": "UCkqcY4CAuBFNFho6JgygCnA",
+          "title": "Police. Protesters. People:  Jocko Willink",
+          "description": "Jocko Willink's message to ALL PEOPLE.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MBLji5dMS_k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MBLji5dMS_k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MBLji5dMS_k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MBLji5dMS_k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MBLji5dMS_k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jocko Podcast",
+          "tags": [
+            "jocko",
+            "protesters",
+            "police",
+            "george floyd"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Police. Protesters. People:  Jocko Willink",
+            "description": "Jocko Willink's message to ALL PEOPLE."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1119007",
+          "likeCount": "102036",
+          "dislikeCount": "2382",
+          "favoriteCount": "0",
+          "commentCount": "10740"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "F7F6G5HLy-guVx67QZ1CxkeCDb4",
+        "id": "5lncmgA6TW0",
+        "snippet": {
+          "publishedAt": "2020-06-05T19:50:00Z",
+          "channelId": "UC9VX0KXNH20x9MCH3xGjisg",
+          "title": "We Bought Each Other Lock-Down Mystery Boxes!",
+          "description": "Buy the DOPE or NOPE Card Game Here!! ➡ https://bit.ly/BuyDopeOrNopeUS\n\n20 of the WEIRDEST Food Combinations We Made Better! ➡ https://www.youtube.com/watch?v=JqwNTieFr1E\n$3 Pistol?! | We Bought 10 Weapons From Wish.com! ➡ https://www.youtube.com/watch?v=GLhb9FyQVg8\n\nWE BACK BABY! We've got some changes to talk about... BUT ONCE WE'RE DONE WITH THAT we decided to buy each other care packages to help us get through lock down! Both Tanner and Matthias think they know the other better, but I'm not convinced either way. \n\nTWITTER ➡ https://twitter.com/Hi5DopeorNope\nINSTAGRAM ➡ https://www.instagram.com/hi5dopeornope\n\nIf you want to watch videos from Hi5 Studios, consider checking out these awesome videos by other channels in our network!\n\nMatthias ➡ We Found A Safe In The Wall...\nhttps://www.youtube.com/watch?v=4DCWdeLqLKE\n\nGet Good Gaming ➡ Who Can Build the Best Movie Car!? | GTA5\nhttps://www.youtube.com/watch?v=jO3kRk91FCk\n\nROZE ➡ Couples Minute To Win It Challenge!\nhttps://www.youtube.com/watch?v=znYMJlT6XE4\n\nBattle Universe ➡ Saying Goodbye to Battle Universe..\nhttps://www.youtube.com/watch?v=UOLB9kyZpQA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5lncmgA6TW0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5lncmgA6TW0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5lncmgA6TW0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5lncmgA6TW0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5lncmgA6TW0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DOPE or NOPE",
+          "tags": [
+            "top 10",
+            "top 5",
+            "trending",
+            "popular",
+            "gadgets",
+            "funny",
+            "funny videos",
+            "reviews",
+            "comedy",
+            "jokes",
+            "amazon",
+            "amazon prime",
+            "friends",
+            "friendship",
+            "best friends in the world",
+            "hi 5 studios",
+            "matthias",
+            "dope or nope",
+            "dope",
+            "reacting to",
+            "lockdown",
+            "lock down",
+            "care package",
+            "lockdown comedy",
+            "gift box",
+            "present",
+            "mystery box",
+            "amazon mystery box",
+            "wish",
+            "wish.com",
+            "ebay",
+            "quarantine"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "We Bought Each Other Lock-Down Mystery Boxes!",
+            "description": "Buy the DOPE or NOPE Card Game Here!! ➡ https://bit.ly/BuyDopeOrNopeUS\n\n20 of the WEIRDEST Food Combinations We Made Better! ➡ https://www.youtube.com/watch?v=JqwNTieFr1E\n$3 Pistol?! | We Bought 10 Weapons From Wish.com! ➡ https://www.youtube.com/watch?v=GLhb9FyQVg8\n\nWE BACK BABY! We've got some changes to talk about... BUT ONCE WE'RE DONE WITH THAT we decided to buy each other care packages to help us get through lock down! Both Tanner and Matthias think they know the other better, but I'm not convinced either way. \n\nTWITTER ➡ https://twitter.com/Hi5DopeorNope\nINSTAGRAM ➡ https://www.instagram.com/hi5dopeornope\n\nIf you want to watch videos from Hi5 Studios, consider checking out these awesome videos by other channels in our network!\n\nMatthias ➡ We Found A Safe In The Wall...\nhttps://www.youtube.com/watch?v=4DCWdeLqLKE\n\nGet Good Gaming ➡ Who Can Build the Best Movie Car!? | GTA5\nhttps://www.youtube.com/watch?v=jO3kRk91FCk\n\nROZE ➡ Couples Minute To Win It Challenge!\nhttps://www.youtube.com/watch?v=znYMJlT6XE4\n\nBattle Universe ➡ Saying Goodbye to Battle Universe..\nhttps://www.youtube.com/watch?v=UOLB9kyZpQA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "583288",
+          "likeCount": "60339",
+          "dislikeCount": "1085",
+          "favoriteCount": "0",
+          "commentCount": "7065"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hkl2kK5nMucFnzXtlbpP2lia7v0",
+        "id": "VitgshmuMlY",
+        "snippet": {
+          "publishedAt": "2020-06-05T15:41:55Z",
+          "channelId": "UCLXzq85ijg2LwJWFrz4pkmw",
+          "title": "Skip and Shannon react to Jake Fromm's leaked text messages on 'elite white people' | UNDISPUTED",
+          "description": "Bills rookie quarterback Jake Fromm apologized for a text from 2019 that was released about guns. Fromm said that they should be expensive so that quote “only elite white people can get them.” Hear what Skip Bayless and Shannon Sharpe have to say about the incident.\n\n#Undisputed #JakeFromm #Bills \n\nSUBSCRIBE to get the latest UNDISPUTED content: http://foxs.pt/SubscribeUNDISPUTED\nListen to UNDISPUTED on Spotify: https://foxs.pt/UNDISPUTEDSpotify\n\n▶Watch our latest NFL content: http://foxs.pt/NFLonUNDISPUTED\n▶Watch our latest NBA content: http://foxs.pt/NBAonUNDISPUTED\n▶Watch our latest MLB content: http://foxs.pt/MLBonUNDISPUTED\n\n▶First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n▶The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n▶Speak for Yourself’s YouTube channel: http://foxs.pt/SubscribeSPEAKFORYOURSELF\n▶Fair Game with Kristine Leahy’s YouTube channel: http://foxs.pt/SubscribeFAIRGAME\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\n\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\nFollow Shannon Sharpe on Twitter: http://foxs.pt/ShannonSharpeTwitter\n\nAbout Skip and Shannon: UNDISPUTED:\nUNDISPUTED is a daily two-and-a-half hour sports debate show starring Skip Bayless and Shannon Sharpe. Every day, Skip and Shannon will give their unfiltered, incisive, passionate opinions on the biggest sports topics of the day.\n\nSkip and Shannon react to Jake Fromm's leaked text messages on 'elite white people' | UNDISPUTED\nhttps://youtu.be/VitgshmuMlY\n\nSkip and Shannon: UNDISPUTED\nhttps://www.youtube.com/c/UndisputedOnFS1",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VitgshmuMlY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VitgshmuMlY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VitgshmuMlY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VitgshmuMlY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VitgshmuMlY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Skip and Shannon: UNDISPUTED",
+          "tags": [
+            "fox",
+            "fox sports",
+            "fs1",
+            "fox sports 1",
+            "undisputed",
+            "skip bayless",
+            "shannon sharpe",
+            "skip and shannon",
+            "fs1 undisputed",
+            "skip",
+            "bayless",
+            "shannon",
+            "sharpe",
+            "sports",
+            "news",
+            "nfl",
+            "football",
+            "jake fromm",
+            "text message",
+            "buffalo bills",
+            "bills",
+            "racism",
+            "racial injustice",
+            "Jake",
+            "Fromm",
+            "Jake Fromm bills",
+            "Bills rookie quarterback",
+            "Jake Fromm Apology",
+            "Fromm Apology",
+            "Jake Apology",
+            "buffalo bills rookie",
+            "buffalo bills quarterback"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Skip and Shannon react to Jake Fromm's leaked text messages on 'elite white people' | UNDISPUTED",
+            "description": "Bills rookie quarterback Jake Fromm apologized for a text from 2019 that was released about guns. Fromm said that they should be expensive so that quote “only elite white people can get them.” Hear what Skip Bayless and Shannon Sharpe have to say about the incident.\n\n#Undisputed #JakeFromm #Bills \n\nSUBSCRIBE to get the latest UNDISPUTED content: http://foxs.pt/SubscribeUNDISPUTED\nListen to UNDISPUTED on Spotify: https://foxs.pt/UNDISPUTEDSpotify\n\n▶Watch our latest NFL content: http://foxs.pt/NFLonUNDISPUTED\n▶Watch our latest NBA content: http://foxs.pt/NBAonUNDISPUTED\n▶Watch our latest MLB content: http://foxs.pt/MLBonUNDISPUTED\n\n▶First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n▶The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n▶Speak for Yourself’s YouTube channel: http://foxs.pt/SubscribeSPEAKFORYOURSELF\n▶Fair Game with Kristine Leahy’s YouTube channel: http://foxs.pt/SubscribeFAIRGAME\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\n\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\nFollow Shannon Sharpe on Twitter: http://foxs.pt/ShannonSharpeTwitter\n\nAbout Skip and Shannon: UNDISPUTED:\nUNDISPUTED is a daily two-and-a-half hour sports debate show starring Skip Bayless and Shannon Sharpe. Every day, Skip and Shannon will give their unfiltered, incisive, passionate opinions on the biggest sports topics of the day.\n\nSkip and Shannon react to Jake Fromm's leaked text messages on 'elite white people' | UNDISPUTED\nhttps://youtu.be/VitgshmuMlY\n\nSkip and Shannon: UNDISPUTED\nhttps://www.youtube.com/c/UndisputedOnFS1"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT13M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "705577",
+          "likeCount": "12054",
+          "dislikeCount": "1006",
+          "favoriteCount": "0",
+          "commentCount": "4959"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uQuZ0wUAEOVQx-FynUPHD9BKwJE",
+        "id": "0DNDkx9pQxk",
+        "snippet": {
+          "publishedAt": "2020-06-05T22:56:46Z",
+          "channelId": "UCrTNhL_yO3tPTdQ5XgmmWjA",
+          "title": "Half in the Bag: The Assistant and The Wrong Missy",
+          "description": "Mike and Jay finally return to work to talk about two movies that didn't have their release dates pushed back a year: The Assistant, a tense and slow drama about workplace harassment, and The Wrong Missy, a tense and slow drama about workplace harassment.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0DNDkx9pQxk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0DNDkx9pQxk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0DNDkx9pQxk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0DNDkx9pQxk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0DNDkx9pQxk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "RedLetterMedia",
+          "tags": [
+            "redlettermedia",
+            "red letter media",
+            "red",
+            "letter",
+            "media",
+            "plinkett",
+            "half in the bag",
+            "mike stoklasa",
+            "jay bauman",
+            "rich evans",
+            "the assistant",
+            "wrong missy",
+            "netflix"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Half in the Bag: The Assistant and The Wrong Missy",
+            "description": "Mike and Jay finally return to work to talk about two movies that didn't have their release dates pushed back a year: The Assistant, a tense and slow drama about workplace harassment, and The Wrong Missy, a tense and slow drama about workplace harassment."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT43M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "596039",
+          "likeCount": "26740",
+          "dislikeCount": "653",
+          "favoriteCount": "0",
+          "commentCount": "3130"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DwQxHFGFstBpGFDC1sKias6Etkw",
+        "id": "IvbOMi0pFnY",
+        "snippet": {
+          "publishedAt": "2020-06-06T16:01:17Z",
+          "channelId": "UCdu8QrpJd6rdHU9fHl8J01A",
+          "title": "Abandoned dog was starving..... for love and attention!!!",
+          "description": "Months of loneliness could have been prevented if people had done the right thing.  Luckily, her feeder finally discovered #HopeForPaws and the rest is history!  We just posted more videos on our website: https://www.HopeForPaws.org\n\nBoth Maple and her best friend Scampi are looking for their loving forever homes!  Please share their video so we can find them this home together.  Our friends at Angel City Pit Bulls will handle their adoption and you can contact them directly here: http://www.AngelCityPits.org\n\nThis week we will celebrate our 12th. anniversary of Hope For Paws and I noticed that YOU didn't download the Hope For Paws APP yet  :-)\n\nPlease go to Google Play or the App Store, search for \"Hope For Paws\" and don't forget to turn on the notification so you won't miss any of the amazing videos that are coming up this week - trust me, you don't want to miss any of them!\n\nInstalling the App will enable me, Loreta, JoAnn and Katie to text you every once in a while and let you know about exciting things happening here.\n\nI will see you there  ;-)\n\nEldad\n\n#PitBulls #DogRescue",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IvbOMi0pFnY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IvbOMi0pFnY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IvbOMi0pFnY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IvbOMi0pFnY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IvbOMi0pFnY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hope For Paws - Official Rescue Channel",
+          "tags": [
+            "HopeForPaws",
+            "Hope For Paws",
+            "Pit bull",
+            "dog rescue"
+          ],
+          "categoryId": "15",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Abandoned dog was starving..... for love and attention!!!",
+            "description": "Months of loneliness could have been prevented if people had done the right thing.  Luckily, her feeder finally discovered #HopeForPaws and the rest is history!  We just posted more videos on our website: https://www.HopeForPaws.org\n\nBoth Maple and her best friend Scampi are looking for their loving forever homes!  Please share their video so we can find them this home together.  Our friends at Angel City Pit Bulls will handle their adoption and you can contact them directly here: http://www.AngelCityPits.org\n\nThis week we will celebrate our 12th. anniversary of Hope For Paws and I noticed that YOU didn't download the Hope For Paws APP yet  :-)\n\nPlease go to Google Play or the App Store, search for \"Hope For Paws\" and don't forget to turn on the notification so you won't miss any of the amazing videos that are coming up this week - trust me, you don't want to miss any of them!\n\nInstalling the App will enable me, Loreta, JoAnn and Katie to text you every once in a while and let you know about exciting things happening here.\n\nI will see you there  ;-)\n\nEldad\n\n#PitBulls #DogRescue"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "322038",
+          "likeCount": "27198",
+          "dislikeCount": "198",
+          "favoriteCount": "0",
+          "commentCount": "1629"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vk3gRqRiGHPOuS1ALaGQN1sMZpY",
+        "id": "kO73im4J2sU",
+        "snippet": {
+          "publishedAt": "2020-06-06T01:05:48Z",
+          "channelId": "UCMY-GtVQQFrk2JuPrkjC95w",
+          "title": "Sturgill Simpson: Live At The Ryman Auditorium, Nashville, TN 6/5/20",
+          "description": "DONATE NOW AT smarturl.it/DDSSDONATE \n\nAfter a call-to-action that raised nearly $250,000 for charity, Sturgill Simpson is honoring his fans with a special one-night performance broadcast live from the historic Ryman Auditorium. The show will continue fundraising efforts for several organizations including the Special Forces Foundation, the Equity Alliance, and the MusiCares COVID-19 Relief Fund. Come jam #withus at this very special event.\n\nLIMITED EDITION MERCH AVAILABLE: https://shop.sturgillsimpson.com\n\nPAYPAL DONATION LINK ON MAIN CHANNEL PAGE\n\nABOUT THE CHARITY PARTNERS:\n\nSPECIAL FORCES FOUNDATION (https://www.specialforcesfoundation.org)\nThe Special Forces Foundation is dedicated to bringing support to the Special Forces community and their families in whatever way necessary. Services include operator and family support, tragedy assistance and survivor support, veteran support and more. All projects directly benefit individuals and their families. Text SFF to 91999 to donate instantly.\n\nTHE EQUITY ALLIANCE (https://theequityalliance.org)\nThe Equity Alliance proactively advocates for African Americans and other communities of color to have a fair and just opportunity at realizing the American dream. They are a Nashville-based grassroots non-profit advocacy group that seeks to equip citizens with tools and strategies to engage in the civic process and empower them to take action on issues affecting their daily lives. \n\nMUSICARES (https://www.grammy.com/musicares)\nThe Recording Academy and MusiCares established the COVID-19 Relief Fund to help people in the music industry affected by the coronavirus disease outbreak and subsequent cancellation of multiple music events. From hotel and bar gigs to major music festivals, COVID-19 is deeply impacting live music events, and the creative community behind it all.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kO73im4J2sU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kO73im4J2sU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kO73im4J2sU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kO73im4J2sU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kO73im4J2sU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SturgillSimpson",
+          "tags": [
+            "Sturgill Simpson",
+            "Ryman Auditorium",
+            "livestream",
+            "charity",
+            "donation",
+            "Sound & Fury",
+            "country",
+            "rock",
+            "concert",
+            "special event",
+            "Simpson",
+            "Sturgill"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Sturgill Simpson: Live At The Ryman Auditorium, Nashville, TN 6/5/20",
+            "description": "DONATE NOW AT smarturl.it/DDSSDONATE \n\nAfter a call-to-action that raised nearly $250,000 for charity, Sturgill Simpson is honoring his fans with a special one-night performance broadcast live from the historic Ryman Auditorium. The show will continue fundraising efforts for several organizations including the Special Forces Foundation, the Equity Alliance, and the MusiCares COVID-19 Relief Fund. Come jam #withus at this very special event.\n\nLIMITED EDITION MERCH AVAILABLE: https://shop.sturgillsimpson.com\n\nPAYPAL DONATION LINK ON MAIN CHANNEL PAGE\n\nABOUT THE CHARITY PARTNERS:\n\nSPECIAL FORCES FOUNDATION (https://www.specialforcesfoundation.org)\nThe Special Forces Foundation is dedicated to bringing support to the Special Forces community and their families in whatever way necessary. Services include operator and family support, tragedy assistance and survivor support, veteran support and more. All projects directly benefit individuals and their families. Text SFF to 91999 to donate instantly.\n\nTHE EQUITY ALLIANCE (https://theequityalliance.org)\nThe Equity Alliance proactively advocates for African Americans and other communities of color to have a fair and just opportunity at realizing the American dream. They are a Nashville-based grassroots non-profit advocacy group that seeks to equip citizens with tools and strategies to engage in the civic process and empower them to take action on issues affecting their daily lives. \n\nMUSICARES (https://www.grammy.com/musicares)\nThe Recording Academy and MusiCares established the COVID-19 Relief Fund to help people in the music industry affected by the coronavirus disease outbreak and subsequent cancellation of multiple music events. From hotel and bar gigs to major music festivals, COVID-19 is deeply impacting live music events, and the creative community behind it all."
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1H3M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "259938",
+          "likeCount": "6753",
+          "dislikeCount": "112",
+          "favoriteCount": "0",
+          "commentCount": "339"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "X0hpVlyXoWgtfY_vttF669WzWLc",
+        "id": "K5k8bQq-69s",
+        "snippet": {
+          "publishedAt": "2020-06-06T20:05:46Z",
+          "channelId": "UCY-BsNVd33_mzyXQzMorv1Q",
+          "title": "Whoever Customizes The Best Face Mask in 30 Minutes WINS!",
+          "description": "2HYPE works on their social distancing drip by customizing their own face masks.\n\nSubscribe and help me reach 500k!\n\nCan We Match The Dog To Their Owner? - Cut React\n► https://youtu.be/OeHSsp2tfr8\n\nMINI HOOP BASKETBALL KNOCKOUT w/ 2HYPE\n► https://youtu.be/5VVAH1WXVeI\n\n★FOLLOW ME ON SOCIAL MEDIA★\r\n●Twitter (@Moochieyt) https://twitter.com/moochieyt\r\n●Instagram (@Moochieyt)► https://instagram.com/moochieyt",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/K5k8bQq-69s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/K5k8bQq-69s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/K5k8bQq-69s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/K5k8bQq-69s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/K5k8bQq-69s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Moochie",
+          "tags": [
+            "moochie",
+            "custom face mask",
+            "face mask drip",
+            "jsr",
+            "jesser",
+            "jiedel",
+            "mopi"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Whoever Customizes The Best Face Mask in 30 Minutes WINS!",
+            "description": "2HYPE works on their social distancing drip by customizing their own face masks.\n\nSubscribe and help me reach 500k!\n\nCan We Match The Dog To Their Owner? - Cut React\n► https://youtu.be/OeHSsp2tfr8\n\nMINI HOOP BASKETBALL KNOCKOUT w/ 2HYPE\n► https://youtu.be/5VVAH1WXVeI\n\n★FOLLOW ME ON SOCIAL MEDIA★\r\n●Twitter (@Moochieyt) https://twitter.com/moochieyt\r\n●Instagram (@Moochieyt)► https://instagram.com/moochieyt"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "134375",
+          "likeCount": "10933",
+          "dislikeCount": "171",
+          "favoriteCount": "0",
+          "commentCount": "936"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yg_bymlafSSlJRn-tutXYgJ_sp4",
+        "id": "E8UViyrn4gk",
+        "snippet": {
+          "publishedAt": "2020-06-05T22:43:48Z",
+          "channelId": "UCch8r_8Io6XK-d5QGkkGZLA",
+          "title": "Sleepy Hallow ft. Sheff G  - Molly  (Official Video Release)",
+          "description": "Listen to the single \"Molly\". \n\nLive on All Platforms Now! https://empire.ffm.to/sleepyforpresident\n#WinnersCircle Official Video by Sleepy \n\nSleepy Hallow ft. Sheff G - Molly © 2020 Winners Circle Entertainment Inc.  / EMPIRE",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E8UViyrn4gk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E8UViyrn4gk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E8UViyrn4gk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sleepy Hallow",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sleepy Hallow ft. Sheff G  - Molly  (Official Video Release)",
+            "description": "Listen to the single \"Molly\". \n\nLive on All Platforms Now! https://empire.ffm.to/sleepyforpresident\n#WinnersCircle Official Video by Sleepy \n\nSleepy Hallow ft. Sheff G - Molly © 2020 Winners Circle Entertainment Inc.  / EMPIRE"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "309182",
+          "likeCount": "23361",
+          "dislikeCount": "418",
+          "favoriteCount": "0",
+          "commentCount": "1010"
+        }
+      }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+      "totalResults": 199,
+      "resultsPerPage": 25
+    }
+  }
+  
