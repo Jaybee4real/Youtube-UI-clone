@@ -16,7 +16,7 @@ import data from "./videodata.json";
 //
 
 const Home = () => {
-  const [CardData, setCardData] = useState([]);
+  // const [CardData, setCardData] = useState([]);
 
   // const fetchOnlineData = () => {
   //   fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${songs}&key=AIzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`)
@@ -35,14 +35,14 @@ const Home = () => {
   //   fetchLocalData()
   // }, [])
 
-  useEffect(() => {
-    setCardData(data.items);
-  });
+  // useEffect(() => {
+  //   setCardData(data.items);
+  // });
 
   return (
     <View style={styles.container}>
       <Navbar />
-      <ScrollView>
+      <ScrollView style={{marginTop: 10}}>
         <Card video={data.items[0]} />
         <Card video={data.items[1]} />
         <Card video={data.items[2]} />

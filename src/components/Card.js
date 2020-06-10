@@ -103,11 +103,15 @@ export class Card extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    width: width,
+    width: width-10,
     marginVertical: 5,
+    borderRadius: 10,
+    marginHorizontal: 5
   },
   cardImage: {
     height: 230,
+    borderRadius: 10,
+    marginHorizontal: 10
   },
   detailsContainer: {
     height: 70,
