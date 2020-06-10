@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { StyleSheet, Text, View, Dimensions } from "react-native";
 import Home from "./Home";
 import Explore from "./Explore";
 import Inbox from "./Inbox";
@@ -8,13 +7,10 @@ import Subscriptions from "./Subscriptions";
 import Settings from "./Settings";
 
 import { createDrawerNavigator } from "@react-navigation/drawer";
-// import { createStackNavigator } from "@react-navigation/stack";
-import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import About from "./About";
 
-const { width } = Dimensions.get("window");
 const Tabs = createBottomTabNavigator();
 
 const createTabs = () => {
@@ -43,16 +39,6 @@ const createTabs = () => {
       tabBarOptions={{
         activeTintColor: "tomato",
         inactiveTintColor: "gray",
-        style: {
-          borderRadius:35, 
-          position:'absolute',
-          bottom: 3,
-          padding: 10,
-          marginHorizontal: 15,
-          width: width-30,
-          height: 100,
-          zIndex: 8 
-        },
       }}
     >
       <Tabs.Screen Screen name="Home" component={Home} />
