@@ -18,6 +18,8 @@ const Home = () => {
           <SubscriptionsCard channel={channelList.items[2]} />
           <SubscriptionsCard channel={channelList.items[3]} />
           <SubscriptionsCard channel={channelList.items[4]} />
+          <SubscriptionsCard channel={channelList.items[0]} />
+          <SubscriptionsCard channel={channelList.items[3]} />
         </ScrollView>
 
         <Card video={channelVideos.items[0]} />

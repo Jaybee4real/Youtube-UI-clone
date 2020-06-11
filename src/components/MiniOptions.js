@@ -1,18 +1,22 @@
 import React from "react";
-import { View, Text, StyleSheet, Dimensions, Image } from "react-native";
+import { View, Text, StyleSheet, Dimensions, Image , TouchableOpacity} from "react-native";
 import Icon from "react-native-vector-icons/FontAwesome5";
-
 
 const { height, width } = Dimensions.get("window");
 
 const MiniOptions = (props) => {
   return (
-    <View style={{ ...styles.miniOption, backgroundColor: props.color }}>
-        <Icon name={props.icon} size={24} color={"white"} style={{marginRight: 20}}/>
-        <Text style={styles.miniOptionText}>
-          {props.title}
-        </Text>
-    </View>
+    <TouchableOpacity>
+      <View style={{ ...styles.miniOption, backgroundColor: props.color }}>
+        <Icon
+          name={props.icon}
+          size={24}
+          color={"white"}
+          style={{ marginRight: 20 }}
+        />
+        <Text style={styles.miniOptionText}>{props.title}</Text>
+      </View>
+    </TouchableOpacity>
   );
 };
 
@@ -27,14 +31,14 @@ const styles = StyleSheet.create({
     marginVertical: 5,
     alignItems: "center",
     justifyContent: "flex-start",
-    flexDirection: 'row',
+    flexDirection: "row",
     paddingHorizontal: 15,
   },
   miniOptionText: {
     fontSize: 16,
     fontWeight: "700",
     color: "white",
-    alignItems: 'center',
-    justifyContent: 'center'
+    alignItems: "center",
+    justifyContent: "center",
   },
 });

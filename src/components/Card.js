@@ -2,13 +2,14 @@ import React, { Component, useEffect } from "react";
 import { Text, View, StyleSheet, Dimensions, Image } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import { TouchableOpacity } from "react-native-gesture-handler";
+import {useNavigation} from '@react-navigation/native'
 
 const { height, width } = Dimensions.get("window");
 
 
 
-export class Card extends Component {
-  render() {
+const Card = (props) => {
+
     //////////Number Formatter Function///////
 
     function nFormatter(num, digits) {
@@ -59,9 +60,10 @@ export class Card extends Component {
       return Math.floor(seconds) + " seconds";
     }
 
-    let video = this.props.video;
+    let video = props.video;
+    const navigation = useNavigation()
     return (
-      <TouchableOpacity>
+      <TouchableOpacity onPress={() => navigation.navigate("VideoPlayer", video)}>
         <View style={styles.container}>
           <Image
             source={{ uri: video.snippet.thumbnails.medium.url }}
@@ -98,7 +100,6 @@ export class Card extends Component {
         </View>
       </TouchableOpacity>
     );
-  }
 }
 
 const styles = StyleSheet.create({

@@ -47,7 +47,7 @@ function timeSince(date) {
   }
   return Math.floor(seconds) + " seconds";
 }
-
+ 
 const InboxCard = (props) => {
   let video = props.video;
   let channel = props.channel
