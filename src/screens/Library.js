@@ -53,7 +53,7 @@ const Library = () => {
         <TouchableOpacity>
           <View style={styles.options}>
             <Icon name="thumb-up" size={23} style={{ marginHorizontal: 14 }} />
-            <Text style={{ fontSize: 18 }}>Your Liked Videos</Text>
+            <Text style={{ fontSize: 18 }}>Liked Videos</Text>
           </View>
         </TouchableOpacity>
         <TouchableOpacity>
@@ -75,14 +75,14 @@ const Library = () => {
                 dropdownTextStyle={{ fontSize: 16 }}
                 dropdownStyle={{ width: 135, height: 80 }}
                 textStyle={{ fontSize: 16, textAlign: "center" , marginRight: 5}}
-                defaultValue={"A-Z"}
+                defaultValue={"Recently Added"}
                 options={["A-Z", "Recently Added"]}
               />
               <Icon name="arrow-drop-down" size={20}/>
             </View>
           </View>
 
-          <View
+          <TouchableOpacity
             style={{
               flexDirection: "row",
               justifyContent: "space-around",
@@ -94,7 +94,7 @@ const Library = () => {
             <Text style={{ fontSize: 20, marginTop: 3.5, color: "blue" }}>
               New Playlist
             </Text>
-          </View>
+          </TouchableOpacity>
         </View>
       </ScrollView>
     </View>

@@ -6,21 +6,18 @@ import functions from '../components/functions'
 const {timeSince, nFormatter} = functions
 
 
-const InboxCard = (props) => {
+const SearchCard = (props) => {
   let video = props.video;
-  let channel = props.channel
+  let channel = props.channel;
   return (
     <View style={styles.container}>
       <Image
         source={{
-          uri: channel.snippet.thumbnails.default.url,
+          uri: video.snippet.thumbnails.default.url,
         }}
-        style={styles.channelImage}
+        style={styles.titleImage}
       />
       <View style={styles.descriptionContainer}>
-        <Text style={{ fontSize: 16 }}>
-          {channel.snippet.title} Uploaded A New Video
-        </Text>
         <Text numberOfLines={2} style={{ color: "grey" }}>
           {video.snippet.description}
         </Text>
@@ -29,13 +26,6 @@ const InboxCard = (props) => {
           {timeSince(new Date(video.snippet.publishedAt)) + " Ago"}
         </Text>
       </View>
-
-      <Image
-        source={{
-          uri: video.snippet.thumbnails.default.url,
-        }}
-        style={styles.titleImage}
-      />
     </View>
   );
 };
@@ -56,13 +46,6 @@ const styles = StyleSheet.create({
   descriptionContainer: {
     width: width / 2,
   },
-  channelImage: {
-    height: 55,
-    width: 55,
-    borderRadius: 25,
-    marginTop: 20,
-    marginHorizontal: 10
-  }
 });
 
-export default InboxCard;
+export default SearchCard;
