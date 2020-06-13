@@ -1,14 +1,15 @@
 import React from "react";
 import { View, Text, StyleSheet, Image, Dimensions } from "react-native";
 
-const { width, height } = Dimensions.get("window");
 import functions from '../components/functions'
+
+
+const { width, height } = Dimensions.get("window");
 const {timeSince, nFormatter} = functions
 
 
 const SearchCard = (props) => {
   let video = props.video;
-  let channel = props.channel;
   return (
     <View style={styles.container}>
       <Image

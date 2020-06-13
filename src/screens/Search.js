@@ -5,15 +5,14 @@ import {
   TextInput,
   TouchableOpacity,
   StyleSheet,
-  FlatList,
-    ActivityIndicator,
-  Dimensions
+  ActivityIndicator,
+  Dimensions,
 } from "react-native";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import { useNavigation } from "@react-navigation/native";
+import SearchCard from "../components/SearchCard";
 
-
-const {height, width} = Dimensions.get('window')
+const { height, width } = Dimensions.get("window");
 
 const Search = () => {
   const navigation = useNavigation();
@@ -22,14 +21,15 @@ const Search = () => {
 
   const searchYoutube = (text) => {
     SetLoading(true);
-    // fetch(
-    //   `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${text}&key=IzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`
-    // )
-    //   .then((data) => data.json())
-    //   .then((data) => {
-    //     SetSearchQuery(data);
-    //     SetLoading(false);
-    //   });
+    fetch(
+      `https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${text}&key=AIzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q hop`
+    )
+      .then((data) => data.json())
+      .then((data) => {
+        SetSearchQuery(data);
+        SetLoading(false);
+        console.log(data);
+      });
 
     setTimeout(() => {
       SetLoading(false);
@@ -58,15 +58,16 @@ const Search = () => {
           <Icon name="keyboard-voice" size={24} style={{ marginLeft: 5 }} />
         </TouchableOpacity>
       </View>
-      {/* <FlatList
-        data={{ id: "1", id: "2", id: "3", id: "4" }}
-        renderItem={({ item }) => <Text>{item.id}</Text>}
-      /> 
-      Cant Use Flatlist Because Its Crashing The Emulator
 
-      */}
+      {}
 
-      {isLoading ? <ActivityIndicator style={{marginTop: height / 2 -20 }}/> : <Text style={{marginTop: height / 2 -20, textAlign: 'center' }}>Not Loading</Text>}
+      {isLoading ? (
+        <ActivityIndicator style={{ marginTop: height / 2 - 20 }} />
+      ) : (
+        <Text style={{ marginTop: height / 2 - 20, textAlign: "center" }}>
+          Not Loading
+        </Text>
+      )}
     </View>
   );
 };

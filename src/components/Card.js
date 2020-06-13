@@ -4,15 +4,10 @@ import Icon from "react-native-vector-icons/MaterialIcons";
 import { TouchableOpacity } from "react-native-gesture-handler";
 import {useNavigation} from '@react-navigation/native'
 
-const { height, width } = Dimensions.get("window");
 import functions from '../components/functions'
 
-
-const {timeSince, nFormatter} = functions
-
-
-
-
+const { height, width } = Dimensions.get("window");
+const { timeSince, nFormatter } = functions
 
 const Card = (props) => {
 

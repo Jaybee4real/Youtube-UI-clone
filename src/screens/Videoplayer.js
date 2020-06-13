@@ -11,27 +11,29 @@ import { useNavigation } from "@react-navigation/native";
 import WebView from "react-native-webview";
 import Icon from "react-native-vector-icons/MaterialIcons";
 import SearchCard from "../components/SearchCard";
-import functions from '../components/functions'
+import functions from "../components/functions";
 
-
-const {timeSince, nFormatter} = functions
-
-
+const { timeSince, nFormatter } = functions;
 const { height, width } = Dimensions.get("window");
 
 const Videoplayer = (props) => {
-
   const navigation = useNavigation();
   const [relatedData, setRelatedData] = useState();
 
   const fetchData = () => {
     fetch(
-      `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${props.route.params.statistics.channelId}&maxResults=25&key=[YOUR_API_KEY]`
-    ).then((data) => {
-      setRelatedData(data.items);
-      console.log(relatedData);
-    });
+      `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${props.route.params.statistics.channelId}&maxResults=25&key=AIzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`)
+       .then(data => data.json())
+       .then(data => {
+        setRelatedData(data)
+          console.log(data)
+       })
+      .catch(err => {
+      console.error(err)
+    }) 
   };
+
+
   useEffect(() => {
     fetchData();
   }, []);
@@ -134,7 +136,7 @@ const Videoplayer = (props) => {
           <Text>Save</Text>
         </TouchableOpacity>
       </View>
-      <SearchCard data={relatedData[0]} />
+      {/* <SearchCard data={relatedData.items[0]} /> */}
     </View>
   );
 };
