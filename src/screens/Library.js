@@ -13,7 +13,7 @@ import Icon from "react-native-vector-icons/MaterialIcons";
 import Minicard from "../components/Minicard";
 import data from "./exploreVideoData.json";
 import ModalDropdown from "react-native-modal-dropdown";
-
+import { min } from "react-native-reanimated";
 
 const { width } = Dimensions.get("window");
 const Library = () => {
@@ -32,11 +32,10 @@ const Library = () => {
           }}
           horizontal={true}
         >
-          <Minicard video={data.items[9]} />
-          <Minicard video={data.items[10]} />
-          <Minicard video={data.items[15]} />
-          <Minicard video={data.items[14]} />
-          <Minicard video={data.items[11]} />
+          {data.items.map((item) => (
+            <Minicard video={item} key={item.id}/>
+
+          ))}
         </ScrollView>
         <TouchableOpacity>
           <View style={styles.options}>
@@ -69,16 +68,20 @@ const Library = () => {
         <View style={styles.playlistContainer}>
           <View style={styles.playlistHeader}>
             <Text style={{ fontSize: 18 }}>Playlists</Text>
-            <View style={{flexDirection: 'row'}}>
+            <View style={{ flexDirection: "row" }}>
               <ModalDropdown
                 defaultIndex={1}
                 dropdownTextStyle={{ fontSize: 16 }}
                 dropdownStyle={{ width: 135, height: 80 }}
-                textStyle={{ fontSize: 16, textAlign: "center" , marginRight: 5}}
+                textStyle={{
+                  fontSize: 16,
+                  textAlign: "center",
+                  marginRight: 5,
+                }}
                 defaultValue={"Recently Added"}
                 options={["A-Z", "Recently Added"]}
               />
-              <Icon name="arrow-drop-down" size={20}/>
+              <Icon name="arrow-drop-down" size={20} />
             </View>
           </View>
 

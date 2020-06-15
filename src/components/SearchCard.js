@@ -17,7 +17,7 @@ const { timeSince  } = functions;
 const { width, height } = Dimensions.get("window");
 
 const SearchCard = (props) => {
-  let video = props.video[2];
+  let video = props.video;
   const navigation = useNavigation()
 
   return (

@@ -13,20 +13,9 @@ const Home = () => {
       <Navbar />
       <ScrollView>
         <ScrollView horizontal={true} >
-          <SubscriptionsCard channel={channelList.items[0]} />
-          <SubscriptionsCard channel={channelList.items[1]} />
-          <SubscriptionsCard channel={channelList.items[2]} />
-          <SubscriptionsCard channel={channelList.items[3]} />
-          <SubscriptionsCard channel={channelList.items[4]} />
-          <SubscriptionsCard channel={channelList.items[0]} />
-          <SubscriptionsCard channel={channelList.items[3]} />
+        {channelList.items.map((item) => <SubscriptionsCard channel={item}  key={item.id}/> )}
         </ScrollView>
-
-        <Card video={channelVideos.items[0]} />
-        <Card video={channelVideos.items[1]} />
-        <Card video={channelVideos.items[2]} />
-        <Card video={channelVideos.items[3]} />
-        <Card video={channelVideos.items[4]} />
+        {channelVideos.items.map((item) => <Card video={item}  key={item.id}/> )}
       </ScrollView>
     </View>
   );

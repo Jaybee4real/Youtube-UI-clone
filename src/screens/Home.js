@@ -13,7 +13,6 @@ import Card from "../components/Card";
 import Navbar from "../components/Navbar";
 import data from "./videodata.json";
 
-//
 
 const Home = () => {
   // const [CardData, setCardData] = useState([]);
@@ -43,27 +42,7 @@ const Home = () => {
     <View style={styles.container}>
       <Navbar />
       <ScrollView style={{marginTop: 10}}>
-        <Card video={data.items[0]} />
-        <Card video={data.items[1]} />
-        <Card video={data.items[2]} />
-        <Card video={data.items[3]} />
-        <Card video={data.items[4]} />
-        <Card video={data.items[5]} />
-        <Card video={data.items[6]} />
-        <Card video={data.items[7]} />
-        <Card video={data.items[8]} />
-        <Card video={data.items[9]} />
-        <Card video={data.items[10]} />
-        <Card video={data.items[11]} />
-        <Card video={data.items[12]} />
-        <Card video={data.items[13]} />
-        <Card video={data.items[14]} />
-        <Card video={data.items[15]} />
-        <Card video={data.items[16]} />
-        <Card video={data.items[17]} />
-        <Card video={data.items[18]} />
-        <Card video={data.items[19]} />
-        <Card video={data.items[20]} />
+        {data.items.map((item) => <Card video={item}  key={item}/> )}
       </ScrollView>
     </View>
   );
