@@ -20,23 +20,23 @@ const Videoplayer = (props) => {
   const navigation = useNavigation();
   const [relatedData, setRelatedData] = useState();
 
-  const fetchData = () => {
-    fetch(
-      `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${props.route.params.statistics.channelId}&maxResults=25&key=AIzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`)
-       .then(data => data.json())
-       .then(data => {
-        setRelatedData(data)
-          console.log(data)
-       })
-      .catch(err => {
-      console.error(err)
-    }) 
-  };
+  // const fetchData = () => {
+  //   fetch(
+  //     `https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=${props.route.params.statistics.channelId}&maxResults=25&key=AIzaSyCXoIdJ9u4w-IttlR_bbsVd87M0-ffd02Q`)
+  //      .then(data => data.json())
+  //      .then(data => {
+  //       setRelatedData(data)
+  //         console.log(data)
+  //      })
+  //     .catch(err => {
+  //     console.error(err)
+  //   }) 
+  // };
 
 
-  useEffect(() => {
-    fetchData();
-  }, []);
+  // useEffect(() => {
+  //   fetchData();
+  // }, []);
 
   return (
     <View style={styles.container}>
@@ -72,8 +72,8 @@ const Videoplayer = (props) => {
             {props.route.params.snippet.title}
           </Text>
           <Text numberOfLines={1} style={{ color: "grey" }}>
-            {props.route.params.snippet.channelTitle} ·{" "}
-            {nFormatter(props.route.params.statistics.viewCount, 2)} Views ·{" "}
+            {props.route.params.snippet.channelTitle} ·{" "} 
+            { props.route.params.statistics ? nFormatter(props.route.params.statistics.viewCount, 2) : null}  Views ·{" "}
             {timeSince(new Date(props.route.params.snippet.publishedAt)) +
               " Ago"}
           </Text>
@@ -93,7 +93,7 @@ const Videoplayer = (props) => {
             size={30}
             style={{ marginBottom: 7, color: "grey" }}
           />
-          <Text>{nFormatter(props.route.params.statistics.likeCount)}</Text>
+          <Text>{props.route.params.statistics ? nFormatter(props.route.params.statistics.likeCount): "15k"}</Text>
         </TouchableOpacity>
 
         <TouchableOpacity>
@@ -102,7 +102,7 @@ const Videoplayer = (props) => {
             size={30}
             style={{ marginBottom: 7, color: "grey" }}
           />
-          <Text>{nFormatter(props.route.params.statistics.dislikeCount)}</Text>
+          <Text>{props.route.params.statistics ? nFormatter(props.route.params.statistics.dislikeCount): "27" }</Text>
         </TouchableOpacity>
 
         <TouchableOpacity>

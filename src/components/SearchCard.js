@@ -1,33 +1,51 @@
 import React from "react";
-import { View, Text, StyleSheet, Image, Dimensions } from "react-native";
+import {
+  View,
+  Text,
+  StyleSheet,
+  Image,
+  Dimensions,
+  TouchableOpacity
+} from "react-native";
+import functions from "../components/functions";
+import Icon from "react-native-vector-icons/MaterialIcons";
+import {useNavigation} from '@react-navigation/native'
 
-import functions from '../components/functions'
 
+const { timeSince  } = functions;
 
 const { width, height } = Dimensions.get("window");
-const {timeSince, nFormatter} = functions
-
 
 const SearchCard = (props) => {
-  let video = props.video;
+  let video = props.video[2];
+  const navigation = useNavigation()
+
   return (
-    <View style={styles.container}>
-      <Image
-        source={{
-          uri: video.snippet.thumbnails.default.url,
-        }}
-        style={styles.titleImage}
-      />
-      <View style={styles.descriptionContainer}>
-        <Text numberOfLines={2} style={{ color: "grey" }}>
-          {video.snippet.description}
-        </Text>
-        <Text numberOfLines={2} style={{ color: "grey", flexWrap: "wrap" }}>
-          {nFormatter(video.statistics.viewCount, 2)} Views ·{" "}
-          {timeSince(new Date(video.snippet.publishedAt)) + " Ago"}
-        </Text>
+    <TouchableOpacity onPress={() => navigation.navigate("VideoPlayer", video)}>
+      <View style={styles.container}>
+        <Image
+          source={{ uri: video.snippet.thumbnails.medium.url }}
+          style={styles.titleImage}
+        />
+        <View style={styles.descriptionContainer}>
+          <Text numberOfLines={2} style={{ fontSize: 16 }}>
+            {video.snippet.title}
+          </Text>
+          <Text numberOfLines={2} style={{ color: "grey" }}>
+            {video.snippet.channelTitle} ·{" "}
+            {timeSince(new Date(video.snippet.publishedAt)) + " Ago"}
+          </Text>
+        </View>
+        <TouchableOpacity>
+          <Icon
+            name="more-vert"
+            size={22}
+            color={"grey"}
+            style={{ marginTop: 7 }}
+          />
+        </TouchableOpacity>
       </View>
-    </View>
+    </TouchableOpacity>
   );
 };
 
@@ -39,13 +57,14 @@ const styles = StyleSheet.create({
     height: 120,
   },
   titleImage: {
-    width: width / 3 - 30,
-    height: 80,
+    width: width / 3 - 10,
+    height: 90,
     marginHorizontal: 10,
     marginTop: 7,
   },
   descriptionContainer: {
-    width: width / 2,
+    width: width / 2 + 10,
+    marginTop: 8,
   },
 });
 
