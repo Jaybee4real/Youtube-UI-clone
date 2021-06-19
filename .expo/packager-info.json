@@ -1,9 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 12332,
-  "expoServerNgrokUrl": "https://gx-9fs.jaybee4real.youtube-clone.exp.direct",
-  "packagerNgrokUrl": "https://packager.gx-9fs.jaybee4real.youtube-clone.exp.direct",
-  "ngrokPid": 12420
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
+  "webpackServerPort": null
 }
